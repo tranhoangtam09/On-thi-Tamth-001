@@ -1,90 +1,20 @@
 {
-  "appName": "VBI NEW PRO",
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026.10.11-source-sets-01-08",
-  "exam": {
-    "questionCount": 40,
-    "durationMinutes": 30,
-    "passScore": 30
-  },
-  "policy": "Only questions whose answer letter is explicitly present in the provided answer document and matches a source option are marked verified.",
-  "sets": [
+  "dataVersion": "2026-10-11-only-user-supplied-sets-01-02",
+  "sourceScope": [
     {
-      "id": "SET01",
-      "name": "Bộ đề số 01",
-      "questionCount": 60,
-      "verifiedQuestionCount": 59,
-      "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01 VBI NEW(2).pdf",
-      "sourceAnswerFile": "1.1 Đáp án BỘ ĐỀ SỐ 01 VBI NEW(2).DOCX",
-      "status": "needs-review"
+      "setId": "SET01",
+      "questionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
+      "answerFile": "1.2 Đáp án bộ đề số 01.DOCX"
     },
     {
-      "id": "SET02",
-      "name": "Bộ đề số 02",
-      "questionCount": 60,
-      "verifiedQuestionCount": 60,
-      "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02 VBI NEW(2).pdf",
-      "sourceAnswerFile": "2.2 Đáp án BỘ ĐỀ SỐ 02 VBI NEW(2).DOCX",
-      "status": "verified"
-    },
-    {
-      "id": "SET03",
-      "name": "Bộ đề số 03",
-      "questionCount": 60,
-      "verifiedQuestionCount": 60,
-      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 3 VBI NEW(2).pdf",
-      "sourceAnswerFile": "3.2 Đáp án BỘ ĐỀ SỐ 3 VBI NEW(2).docx",
-      "status": "verified"
-    },
-    {
-      "id": "SET04",
-      "name": "Bộ đề số 04",
-      "questionCount": 62,
-      "verifiedQuestionCount": 62,
-      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(6).pdf",
-      "sourceAnswerFile": "4.2 Đáp án BỘ ĐỀ SỐ 04 VBI NEW(6).DOCX",
-      "status": "verified"
-    },
-    {
-      "id": "SET05",
-      "name": "Bộ đề số 05",
-      "questionCount": 60,
-      "verifiedQuestionCount": 60,
-      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(2).pdf",
-      "sourceAnswerFile": "5.2. Đáp án BỘ ĐỀ SỐ 05 VBI NEW(2).docx",
-      "status": "verified"
-    },
-    {
-      "id": "SET06",
-      "name": "Bộ đề số 06",
-      "questionCount": 60,
-      "verifiedQuestionCount": 60,
-      "sourceQuestionFile": "6.1 BỘ ĐỀ SỐ 06 VBI NEW(2).pdf",
-      "sourceAnswerFile": "6.1 Đáp án BỘ ĐỀ SỐ 06 VBI NEW(2).docx",
-      "status": "verified"
-    },
-    {
-      "id": "SET07",
-      "name": "Bộ đề số 07",
-      "questionCount": 60,
-      "verifiedQuestionCount": 60,
-      "sourceQuestionFile": "7.1 BỘ ĐỀ SỐ 07 VBI NEW(2).pdf",
-      "sourceAnswerFile": "7.2 Đáp án BỘ ĐỀ SỐ 07 VBI NEW(2).docx",
-      "status": "verified"
-    },
-    {
-      "id": "SET08",
-      "name": "Bộ đề số 08",
-      "questionCount": 60,
-      "verifiedQuestionCount": 60,
-      "sourceQuestionFile": "8.1 BỘ ĐỀ SỐ 08 VBI NEW(2).pdf",
-      "sourceAnswerFile": "8.2 BỘ ĐỀ SỐ 08 VBI NEW(2).DOCX",
-      "status": "verified"
+      "setId": "SET02",
+      "questionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
+      "answerFile": "2.2 Đáp án bộ đề số 02.docx"
     }
   ],
-  "questionCount": 482,
-  "verifiedQuestionCount": 481,
-  "needsReviewCount": 1,
-  "dataStatus": "source-extracted-with-one-question-needing-review",
-  "topics": []
+  "questionCount": 120,
+  "verifiedQuestionCount": 111,
+  "needsReviewCount": 9,
+  "policy": "Không nhập hoặc sử dụng bộ đề khác. Câu needs-review không được dùng trong thi thử cho đến khi đối chiếu thủ công."
 }
