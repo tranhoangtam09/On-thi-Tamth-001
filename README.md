@@ -1,19 +1,18 @@
 # VBI NEW PRO – Ôn thi toàn tập
 
-Ứng dụng web tiếng Việt tương thích GitHub Pages.
+Ứng dụng web tiếng Việt, thiết kế responsive, chạy trên GitHub Pages.
 
-## Chức năng
-- Giao diện responsive dạng Icon Grid.
-- Ôn tập theo chủ đề và theo bộ đề.
-- Thi thử độc lập 40 câu / 30 phút / ngưỡng đạt 30 câu; tự nộp khi hết giờ.
-- Luyện câu sai, đánh dấu câu cần ôn, thống kê và lưu LocalStorage.
-- Kiểm tra dữ liệu và manifest để bổ sung bộ đề trong tương lai.
+## Các mục trong ứng dụng
+- Ôn tập theo chủ đề và theo bộ đề gốc.
+- Thi thử độc lập: 40 câu, 30 phút, đạt từ 30/40; tự nộp khi hết giờ.
+- Luyện câu sai, đánh dấu câu cần ôn, thống kê và lưu tiến độ bằng LocalStorage.
+- Báo cáo dữ liệu và manifest để thêm bộ đề mới.
 
-## Dữ liệu nguồn
-Bộ đề 01 và 02 đã được ghi nhận trong `assets/data/manifest.json`, trạng thái `pending_verification`. `assets/data/questions.json` cố ý để trống cho đến khi đối chiếu toàn bộ PDF đề gốc và tệp đáp án. Thi thử chỉ dùng các câu có `verificationStatus: verified`, và bị khóa nếu chưa đủ 40 câu.
+## Dữ liệu chính thức
+`assets/data/questions.json` hiện không chứa câu hỏi. Bộ đề 01 và 02 được ghi nhận trong `assets/data/manifest.json` với trạng thái `pending_verification`. Chỉ thêm câu sau khi đối chiếu PDF và đáp án DOCX. Chỉ câu có `verificationStatus: verified` mới được dùng trong thi thử; ứng dụng khóa thi thử nếu chưa đủ 40 câu đã xác minh.
 
-## Triển khai GitHub Pages
-Settings → Pages → Deploy from a branch → `main` → `/(root)` → Save.
+## Triển khai
+Workflow kiểm tra mã nguồn nằm tại `.github/workflows/static.yml`. Workflow GitHub Pages đã được tạo nhưng bước Deploy hiện thất bại do cấu hình/quyền Pages của repository; cần bật Pages trong Settings → Pages hoặc kiểm tra quyền Pages của GitHub Actions.
 
 ## Kiểm tra
-`node tests/validation.js` kiểm tra cấu trúc JSON cơ bản; chưa thay thế đối chiếu nguồn hoặc kiểm thử trình duyệt thực tế.
+`node tests/validation.js` kiểm tra cấu trúc JSON cơ bản, không thay thế việc đối chiếu dữ liệu gốc hoặc kiểm thử trình duyệt.
