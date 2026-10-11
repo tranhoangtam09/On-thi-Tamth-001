@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026-10-11-only-user-supplied-sets-01-02",
+  "dataVersion": "2026-10-11-answer-keys-rechecked",
   "sourceScope": [
     "1.1 BỘ ĐỀ SỐ 01.pdf",
     "1.2 Đáp án bộ đề số 01.DOCX",
@@ -33,12 +33,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Chuyển giao hợp đồng bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm hoặc theo quy định của pháp luật.",
+      "answerSourceText": "Đối chiếu theo câu 1 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 2
@@ -68,12 +68,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Số tiền bồi thường của mỗi hợp đồng bảo hiểm được tính tương ứng theo tỷ lệ giữa số tiền bảo hiểm đã thỏa thuận trên tổng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết. Tổng số tiền bồi thường của các hợp đồng bảo hiểm không vượt quá giá trị thiệt hại thực tế của tài sản.",
+      "answerSourceText": "Đối chiếu theo câu 2 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 2
@@ -103,12 +103,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Người thụ hưởng là tổ chức, cá nhân được doanh nghiệp bảo hiểm chỉ định để nhận tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 3 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 3
@@ -134,12 +134,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "A, B đúng",
+      "answerSourceText": "Đối chiếu theo câu 4 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 3
@@ -168,15 +168,13 @@
           "text": "A, B đúng."
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 5 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
-      "verificationStatus": "needs-review",
-      "verificationNotes": [
-        "Không có ký hiệu đáp án chắc chắn trong tệp đáp án được chỉ định; loại khỏi thi thử."
-      ],
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 4
@@ -206,12 +204,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "Khoản thiệt hại do bên thứ ba gây ra cho bên mua bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 6 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 4
@@ -237,12 +235,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Tổng số tiền bảo hiểm đã thỏa thuận tại hai hợp đồng bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 7 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 4
@@ -272,12 +270,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "Ông/bà của bên mua bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 8 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 5
@@ -303,12 +301,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Doanh nghiệp bảo hiểm có quyền thay mặt người được bảo hiểm để thương lượng với người thứ ba về mức độ bồi thường thiệt hại, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 9 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 5
@@ -338,12 +336,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "Đại lý bảo hiểm có thể sửa đổi, bổ sung quy tắc, điều khoản bảo hiểm cho phù hợp với tình hình thực tế của khách hàng.",
+      "answerSourceText": "Đối chiếu theo câu 10 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 5
@@ -376,15 +374,13 @@
           "text": "B D đúng."
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "B",
+      "answerSourceText": "Đối chiếu theo câu 11 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
-      "verificationStatus": "needs-review",
-      "verificationNotes": [
-        "Không có ký hiệu đáp án chắc chắn trong tệp đáp án được chỉ định; loại khỏi thi thử."
-      ],
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 6
@@ -406,12 +402,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Doanh nghiệp bảo hiểm có quyền thay mặt người được bảo hiểm để thương lượng với người thứ 3 về mức độ bồi thường thiệt hại, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 12 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 6
@@ -445,12 +441,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "A, C đúng.",
+      "answerSourceText": "Đối chiếu theo câu 13 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 7
@@ -480,12 +476,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Không trả tiền bảo hiểm cho lái xe nhưng xem xét trả tiền bảo hiểm cho người được bảo hiểm khác trên xe.",
+      "answerSourceText": "Đối chiếu theo câu 14 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 7
@@ -515,12 +511,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "A, B, C đúng",
+      "answerSourceText": "Đối chiếu theo câu 15 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 8
@@ -550,12 +546,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Trích cho từng hợp đồng bảo hiểm sức khỏe tương ứng với trách nhiệm của doanh nghiệp, chi nhánh nước ngoài tại Việt Nam và phải được chuyên gia tính toán xác nhận",
+      "answerSourceText": "Đối chiếu theo câu 16 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 8
@@ -581,12 +577,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "100% số tiền bảo hiểm",
+      "answerSourceText": "Đối chiếu theo câu 17 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 8
@@ -608,12 +604,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Có",
+      "answerSourceText": "Đối chiếu theo câu 18 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 9
@@ -643,12 +639,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "A, B đúng",
+      "answerSourceText": "Đối chiếu theo câu 19 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 9
@@ -674,12 +670,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Nguyên tắc bồi thường.",
+      "answerSourceText": "Đối chiếu theo câu 20 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 10
@@ -709,12 +705,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Kiểm tra các điều kiện bảo đảm an toàn cho đối tượng bảo hiểm hoặc khuyến nghị, yêu cầu người được bảo hiểm áp dụng các biện pháp đề phòng, hạn chế rủi ro.",
+      "answerSourceText": "Đối chiếu theo câu 21 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 10
@@ -743,15 +739,13 @@
           "text": "A, B sai"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 22 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
-      "verificationStatus": "needs-review",
-      "verificationNotes": [
-        "Không có ký hiệu đáp án chắc chắn trong tệp đáp án được chỉ định; loại khỏi thi thử."
-      ],
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 10
@@ -777,12 +771,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "A, B, đúng.",
+      "answerSourceText": "Đối chiếu theo câu 23 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 11
@@ -812,12 +806,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Đăng ký và được bộ tài chính chấp thuận Phương pháp, cơ sở tính phí bảo hiểm của các sản phẩm bảo hiểm thuộc nghiệp vụ bảo hiểm sức khỏe trước khi triển khai",
+      "answerSourceText": "Đối chiếu theo câu 24 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 11
@@ -843,14 +837,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "",
+      "answerSourceText": "Đối chiếu theo câu 25 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
-      "verificationStatus": "needs-review",
-      "verificationNotes": [
-        "Không có ký hiệu đáp án chắc chắn trong tệp đáp án được chỉ định; loại khỏi thi thử."
-      ],
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 12
@@ -880,12 +872,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Hồ sơ y tế được lưu trữ tại bệnh viện hoặc cơ sở y tế được thành lập hợp pháp, các tài liệu y khoa được Bộ Y tế và các cơ quan có thẩm quyền ban hành hoặc các thông tin do bên mua bảo hiểm , người được bảo hiểm tự kê khai trên hồ sơ yêu cầu bảo hiểm hoặc phiếu bổ sung thông tin.",
+      "answerSourceText": "Đối chiếu theo câu 26 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 12
@@ -914,15 +906,13 @@
           "text": "Người được bảo hiểm là tổ chức, cá nhân có tài sản, trách nhiệm dân sự, sức khỏe, tính mạng, nghĩa vụ hoặc lợi ích kinh tế được bảo hiểm theo hợp đồng bảo hiểm."
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 27 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
-      "verificationStatus": "needs-review",
-      "verificationNotes": [
-        "Không có ký hiệu đáp án chắc chắn trong tệp đáp án được chỉ định; loại khỏi thi thử."
-      ],
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 13
@@ -948,12 +938,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Đối tượng bảo hiểm",
+      "answerSourceText": "Đối chiếu theo câu 28 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 13
@@ -982,15 +972,13 @@
           "text": "Không có quy định."
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 29 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
-      "verificationStatus": "needs-review",
-      "verificationNotes": [
-        "Không có ký hiệu đáp án chắc chắn trong tệp đáp án được chỉ định; loại khỏi thi thử."
-      ],
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 13
@@ -1020,12 +1008,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Tổng số tiền bồi thường của các doanh nghiệp bảo hiểm tối đa bằng giá trị thiệt hại thực tế của tài sản",
+      "answerSourceText": "Đối chiếu theo câu 30 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 14
@@ -1055,12 +1043,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Vị trí đặt văn phòng/ nơi làm việc của người được bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 31 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 14
@@ -1086,12 +1074,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Doanh nghiệp môi giới bảo hiểm",
+      "answerSourceText": "Đối chiếu theo câu 32 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 15
@@ -1121,12 +1109,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Khi giao kết hợp đồng bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 33 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 15
@@ -1156,12 +1144,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "A, B, C đúng.",
+      "answerSourceText": "Đối chiếu theo câu 34 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 15
@@ -1195,12 +1183,12 @@
         }
       ],
       "correctAnswer": "E",
-      "answerSourceText": "A, B, C đúng",
+      "answerSourceText": "Đối chiếu theo câu 35 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: E.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 16
@@ -1230,12 +1218,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Doanh nghiệp bảo hiểm chỉ chịu trách nhiệm bồi thường thiệt hại theo tỷ lệ tương ứng với số tiền bảo hiểm và giá thị trường của tài sản được bảo hiểm tại thời điểm giao kết hoặc thỏa thuận trong hợp đồng bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 36 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 16
@@ -1265,12 +1253,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Hợp đồng trong đó số tiền bảo hiểm cao hơn giá thị trường của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng.",
+      "answerSourceText": "Đối chiếu theo câu 37 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 16
@@ -1300,12 +1288,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Công trình đã bàn giao và đưa vào sử dụng.",
+      "answerSourceText": "Đối chiếu theo câu 38 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 17
@@ -1335,12 +1323,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "400 tỷ đồng Việt Nam",
+      "answerSourceText": "Đối chiếu theo câu 39 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 17
@@ -1370,12 +1358,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "70%",
+      "answerSourceText": "Đối chiếu theo câu 40 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 18
@@ -1405,12 +1393,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Chi khuyến mại.",
+      "answerSourceText": "Đối chiếu theo câu 41 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 18
@@ -1440,12 +1428,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "A,B,C đúng.",
+      "answerSourceText": "Đối chiếu theo câu 42 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 18
@@ -1475,12 +1463,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "A, C đúng.",
+      "answerSourceText": "Đối chiếu theo câu 43 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 19
@@ -1510,12 +1498,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "B, C đúng",
+      "answerSourceText": "Đối chiếu theo câu 44 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 19
@@ -1545,12 +1533,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "A,B đúng.",
+      "answerSourceText": "Đối chiếu theo câu 45 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 20
@@ -1580,12 +1568,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Hoàn lại phí bảo hiểm cho bên mua bảo hiểm tương ứng với thời gian còn lại của hợp đồng bảo hiểm mà bên mua bảo hiểm đã đóng phí bảo hiểm, sau khi đã trừ các chi phí hợp lý có liên quan đến hợp đồng bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 46 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 20
@@ -1615,12 +1603,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "30 ngày",
+      "answerSourceText": "Đối chiếu theo câu 47 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 20
@@ -1650,12 +1638,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Có quyền yêu cầu doanh nghiệp bảo hiểm giảm phí bảo hiểm cho thời gian còn lại của hợp đồng",
+      "answerSourceText": "Đối chiếu theo câu 48 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 21
@@ -1685,12 +1673,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Bên mua bảo hiểm có quyền đơn phương đình chỉ thực hiện hợp đồng bảo hiểm; Doanh nghiệp bảo hiểm phải bồi thường thiệt hại phát sinh cho bên mua bảo hiểm do cung cấp thông tin sai sự thật",
+      "answerSourceText": "Đối chiếu theo câu 49 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 21
@@ -1719,15 +1707,13 @@
           "text": "A,B, C đúng"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 50 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
-      "verificationStatus": "needs-review",
-      "verificationNotes": [
-        "Không có ký hiệu đáp án chắc chắn trong tệp đáp án được chỉ định; loại khỏi thi thử."
-      ],
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 22
@@ -1757,12 +1743,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "A, B, C đúng",
+      "answerSourceText": "Đối chiếu theo câu 51 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 22
@@ -1792,12 +1778,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Bên mua bảo hiểm có quyền đơn phương đình chỉ thực hiện hợp đồng bảo hiểm; Doanh nghiệp bảo hiểm phải bồi thường thiệt hại phát sinh cho bên mua bảo hiểm do cung cấp thông tin sai sự thật",
+      "answerSourceText": "Đối chiếu theo câu 52 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 22
@@ -1827,12 +1813,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "20%",
+      "answerSourceText": "Đối chiếu theo câu 53 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 23
@@ -1862,12 +1848,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "15 ngày và không quá 30 ngày trong trường hợp phải tiến hành xác minh hồ sơ.",
+      "answerSourceText": "Đối chiếu theo câu 54 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 23
@@ -1893,12 +1879,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Thời hạn yêu cầu trả tiền bảo hiểm hoặc bồi thường theo hợp đồng bảo hiểm, kể từ ngày xảy ra sự kiện bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 55 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 24
@@ -1928,12 +1914,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Phải hoàn lại phí bảo hiểm cho bên mua bảo hiểm tương ứng với thời gian còn lại của hợp đồng bảo hiểm mà bên mua bảo hiểm đã đóng phí bảo hiểm, sau khi đã trừ các chi phí hợp lý có liên quan đến hợp đồng bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 56 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 24
@@ -1963,12 +1949,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Doanh nghiệp bảo hiểm phi nhân thọ được phép chi trả hoa hồng bảo hiểm cho đại lý bảo hiểm phi nhân thọ, đại lý bảo hiểm nhân thọ và doanh nghiệp môi giới bảo hiểm",
+      "answerSourceText": "Đối chiếu theo câu 57 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 24
@@ -1998,12 +1984,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Doanh nghiệp tái bảo hiểm",
+      "answerSourceText": "Đối chiếu theo câu 58 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 25
@@ -2033,12 +2019,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Vật có thực, tiền, giấy tờ trị giá được bằng tiền và các quyền tài sản.",
+      "answerSourceText": "Đối chiếu theo câu 59 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 25
@@ -2064,12 +2050,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "A và B Nội dung này được tạo bởi chủ sở hữu của biểu mẫu. Dữ liệu bạn gửi sẽ được gửi đến chủ sở hữu biểu mẫu. Microsoft không chịu trách nhiệm về quyền riêng tư hoặc thực tiễn bảo mật của khách hàng, bao gồm cả các biện pháp bảo mật của chủ sở hữu biểu mẫu này. Không bao giờ đưa ra mật khẩu của bạn. Microsoft Forms | Các cuộc khảo sát, câu đố và cuộc thăm dò do AI cung cấp Tạo biểu mẫu riêng của tôi Quyền riêng tư và cookie | Quyền riêng tư về Sức khỏe Người tiêu dùng | Điều khoản sử dụng",
+      "answerSourceText": "Đối chiếu theo câu 60 trong 1.2 Đáp án bộ đề số 01.DOCX; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 26
@@ -2099,12 +2085,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Số tiền mà bên mua bảo hiểm và doanh nghiệp bảo hiểm thỏa thuận trong hợp đồng bảo hiểm để bảo hiểm cho tài sản và thiệt hại trên cơ sở yêu cầu của bên mua bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 1 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 2
@@ -2126,12 +2112,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Hợp đồng, giấy chứng nhận bảo hiểm, đơn bảo hiểm hoặc hình thức khác theo quy định của pháp luật.",
+      "answerSourceText": "Đối chiếu theo câu 2 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 2
@@ -2153,12 +2139,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Không",
+      "answerSourceText": "Đối chiếu theo câu 3 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 3
@@ -2188,12 +2174,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "B, C đúng.",
+      "answerSourceText": "Đối chiếu theo câu 4 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 3
@@ -2223,12 +2209,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "A, B đúng.",
+      "answerSourceText": "Đối chiếu theo câu 5 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 3
@@ -2258,12 +2244,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Yêu cầu DNBH bồi thường, trả tiền bảo hiểm khi xảy ra sự kiện bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 6 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 4
@@ -2293,12 +2279,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "A, B, C đúng.",
+      "answerSourceText": "Đối chiếu theo câu 7 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 4
@@ -2328,12 +2314,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "A, B, C đúng.",
+      "answerSourceText": "Đối chiếu theo câu 8 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 4
@@ -2355,12 +2341,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Đúng.",
+      "answerSourceText": "Đối chiếu theo câu 9 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 5
@@ -2386,12 +2372,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Chuyển giao hợp đồng bảo hiểm theo quy định của pháp luật.",
+      "answerSourceText": "Đối chiếu theo câu 10 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 5
@@ -2421,12 +2407,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "Lựa chọn doanh nghiệp bảo hiểm có đủ năng lực tài chính để chi trả quyền lợi bảo hiểm",
+      "answerSourceText": "Đối chiếu theo câu 11 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 5
@@ -2452,12 +2438,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Doanh nghiệp bảo hiểm không được áp dụng loại trừ trách nhiệm bảo hiểm về việc chậm thông báo trong mọi trường hợp",
+      "answerSourceText": "Đối chiếu theo câu 12 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 6
@@ -2487,12 +2473,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "36 tháng",
+      "answerSourceText": "Đối chiếu theo câu 13 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 6
@@ -2522,12 +2508,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Công trình đang thi công, cải tạo nhưng tất cả cửa ra vào, cửa sổ và các ô mở khác đã được hoàn thành để chống giông, bão.",
+      "answerSourceText": "Đối chiếu theo câu 14 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 6
@@ -2561,12 +2547,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "B, C đúng",
+      "answerSourceText": "Đối chiếu theo câu 15 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 7
@@ -2587,15 +2573,13 @@
           "text": "Không"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 16 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": [
-        "Không có ký hiệu đáp án chắc chắn trong tệp đáp án được chỉ định; loại khỏi thi thử."
-      ],
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 7
@@ -2625,12 +2609,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Doanh nghiệp bảo hiểm và bên mua bảo hiểm giao kết hợp đồng bảo hiểm giả tạo.",
+      "answerSourceText": "Đối chiếu theo câu 17 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 7
@@ -2664,12 +2648,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "B, C đúng",
+      "answerSourceText": "Đối chiếu theo câu 18 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 8
@@ -2691,12 +2675,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Sai.",
+      "answerSourceText": "Đối chiếu theo câu 19 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 8
@@ -2726,12 +2710,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "Cả A, B, C",
+      "answerSourceText": "Đối chiếu theo câu 20 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 8
@@ -2761,12 +2745,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "A, B đúng",
+      "answerSourceText": "Đối chiếu theo câu 21 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 9
@@ -2788,12 +2772,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Bên mua bảo hiểm không phải đóng phí bảo hiểm đến thời điểm đơn phương chấm dứt thực hiện hợp đồng bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 22 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 9
@@ -2823,12 +2807,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "A, B, C đúng",
+      "answerSourceText": "Đối chiếu theo câu 23 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 10
@@ -2858,12 +2842,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "A, B đúng",
+      "answerSourceText": "Đối chiếu theo câu 24 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 10
@@ -2893,12 +2877,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "B, C đúng.",
+      "answerSourceText": "Đối chiếu theo câu 25 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 10
@@ -2928,12 +2912,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "01 năm tính từ ngày người được bảo hiểm hoặc người thụ hưởng biết việc xảy ra sự kiện bảo hiểm đó",
+      "answerSourceText": "Đối chiếu theo câu 26 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 11
@@ -2963,12 +2947,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "Văn phòng đại diện của doanh nghiệp bảo hiểm nước ngoài tại Việt Nam",
+      "answerSourceText": "Đối chiếu theo câu 27 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 11
@@ -2998,12 +2982,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "0.7",
+      "answerSourceText": "Đối chiếu theo câu 28 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 11
@@ -3029,12 +3013,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "A, B đúng.",
+      "answerSourceText": "Đối chiếu theo câu 29 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 12
@@ -3064,12 +3048,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "Máy móc, thiết bị được bảo hiểm bị cháy mà nguyên nhân bắt nguồn từ sự cố máy móc, thiết bị khác bị quá tải, chập điện",
+      "answerSourceText": "Đối chiếu theo câu 30 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 12
@@ -3099,12 +3083,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Đối tượng bảo hiểm của hợp đồng bảo hiểm sức khỏe là sức khoẻ con người.",
+      "answerSourceText": "Đối chiếu theo câu 31 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 13
@@ -3130,12 +3114,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "A,B đúng",
+      "answerSourceText": "Đối chiếu theo câu 32 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 13
@@ -3165,12 +3149,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Trong thời hạn gia hạn nộp phí mà BMBH chưa nộp, nếu xảy ra sự kiện bảo hiểm thì tổn thất đó không thuộc phạm vi trách nhiệm bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 33 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 13
@@ -3196,12 +3180,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Doanh nghiệp bảo hiểm vẫn có nghĩa vụ bồi thường, trả tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm mà không có quyền yêu cầu người thứ ba bồi hoàn khoản tiền mà doanh nghiệp bảo hiểm đã trả cho người thụ hưởng.",
+      "answerSourceText": "Đối chiếu theo câu 34 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 14
@@ -3231,12 +3215,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Doanh nghiệp bảo hiểm sẽ chi trả cho ông A 100 triệu đồng và ông B phải bồi thường cho ông A theo quy định của pháp luật.",
+      "answerSourceText": "Đối chiếu theo câu 35 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 14
@@ -3262,12 +3246,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Chi trả 100% số tiền bảo hiểm.",
+      "answerSourceText": "Đối chiếu theo câu 36 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 14
@@ -3293,12 +3277,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Khi Bên mua bảo hiểm giao kết hợp đồng bảo hiểm nhân thọ, hợp đồng bảo hiểm sức khỏe cho trường hợp chết của người khác thì phải được người đó đồng ý bằng văn bản, trong đó ghi rõ số tiền bảo hiểm và người thụ hưởng.",
+      "answerSourceText": "Đối chiếu theo câu 37 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 15
@@ -3328,12 +3312,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Bên mua bảo hiểm phải được người đó đồng ý bằng văn bản",
+      "answerSourceText": "Đối chiếu theo câu 38 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 15
@@ -3363,12 +3347,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "Cả A B C đều đúng",
+      "answerSourceText": "Đối chiếu theo câu 39 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 15
@@ -3398,12 +3382,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Bảo hiểm sức khỏe",
+      "answerSourceText": "Đối chiếu theo câu 40 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 16
@@ -3433,12 +3417,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Giá trị tính thành tiền theo giá thị trường của các tài sản tại thời điểm giao kết hợp đồng bảo hiểm",
+      "answerSourceText": "Đối chiếu theo câu 41 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 16
@@ -3468,12 +3452,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "Cả A, B, C",
+      "answerSourceText": "Đối chiếu theo câu 42 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 16
@@ -3503,12 +3487,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "Cả A, B, C.",
+      "answerSourceText": "Đối chiếu theo câu 43 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 17
@@ -3538,12 +3522,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "A, B đúng.",
+      "answerSourceText": "Đối chiếu theo câu 44 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 17
@@ -3573,12 +3557,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "A, B, C đều đúng",
+      "answerSourceText": "Đối chiếu theo câu 45 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 18
@@ -3608,12 +3592,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "A, B đúng",
+      "answerSourceText": "Đối chiếu theo câu 46 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 18
@@ -3643,12 +3627,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Điều kiện, mức phí bảo hiểm; số tiền bảo hiểm tối thiểu",
+      "answerSourceText": "Đối chiếu theo câu 47 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 18
@@ -3682,12 +3666,12 @@
         }
       ],
       "correctAnswer": "E",
-      "answerSourceText": "A, B, C đúng.",
+      "answerSourceText": "Đối chiếu theo câu 48 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: E.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 19
@@ -3713,12 +3697,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Cả A và B",
+      "answerSourceText": "Đối chiếu theo câu 49 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 19
@@ -3744,12 +3728,12 @@
         }
       ],
       "correctAnswer": "B",
-      "answerSourceText": "Người thụ hưởng là tổ chức, cá nhân được bên mua bảo hiểm chỉ định để nhận tiền bảo hiểm theo hợp đồng bảo hiểm con người.",
+      "answerSourceText": "Đối chiếu theo câu 50 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: B.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 19
@@ -3775,12 +3759,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Số vốn do doanh nghiệp bảo hiểm phi nhân thọ nước ngoài cấp cho chi nhánh tại Việt Nam.",
+      "answerSourceText": "Đối chiếu theo câu 51 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 20
@@ -3810,12 +3794,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Hợp đồng bảo hiểm con người",
+      "answerSourceText": "Đối chiếu theo câu 52 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 20
@@ -3845,12 +3829,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "Phần thiệt hại do bên thứ ba gây ra cho người được bảo hiểm",
+      "answerSourceText": "Đối chiếu theo câu 53 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 20
@@ -3880,12 +3864,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Trách nhiệm dân sự của người được bảo hiểm đối với người thứ ba theo quy định của pháp luật.",
+      "answerSourceText": "Đối chiếu theo câu 54 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 21
@@ -3915,12 +3899,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Chịu trách nhiệm bồi thường theo tỷ lệ giữa số tiền bảo hiểm đã thỏa thuận trên tổng số tiền bảo hiểm của tất cả các hợp đồng mà bên mua bảo hiểm đã giao kết",
+      "answerSourceText": "Đối chiếu theo câu 55 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 21
@@ -3949,15 +3933,13 @@
           "text": "Ba (03) năm kể từ thời điểm phát sinh tranh chấp"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 56 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": [
-        "Không có ký hiệu đáp án chắc chắn trong tệp đáp án được chỉ định; loại khỏi thi thử."
-      ],
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 21
@@ -3987,12 +3969,12 @@
         }
       ],
       "correctAnswer": "C",
-      "answerSourceText": "Mức trách nhiệm giữ lại tối đa trên mỗi rủi ro hoặc trên mỗi tổn thất riêng lẻ không quá 10% vốn chủ sở hữu",
+      "answerSourceText": "Đối chiếu theo câu 57 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: C.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 22
@@ -4022,12 +4004,12 @@
         }
       ],
       "correctAnswer": "D",
-      "answerSourceText": "A, B, C đúng",
+      "answerSourceText": "Đối chiếu theo câu 58 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: D.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 22
@@ -4049,12 +4031,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Có.",
+      "answerSourceText": "Đối chiếu theo câu 59 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 22
@@ -4080,12 +4062,12 @@
         }
       ],
       "correctAnswer": "A",
-      "answerSourceText": "Các chi phí sửa chữa, khắc phục những thiệt hại của động cơ do xe đi vào vùng ngập nước và/hoặc nước lọt vào động cơ gây hiện tượng thủy kích.",
+      "answerSourceText": "Đối chiếu theo câu 60 trong 2.2 Đáp án bộ đề số 02.docx; đáp án: A.",
       "explanation": "",
       "sourceQuestionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "sourceAnswerFile": "2.2 Đáp án bộ đề số 02.docx",
       "verificationStatus": "verified",
-      "verificationNotes": [],
+      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 23
