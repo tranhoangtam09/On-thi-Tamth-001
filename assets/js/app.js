@@ -4,7 +4,7 @@ function readProgress(){try{return JSON.parse(localStorage.getItem("vbi-new-pro-
 function save(){try{localStorage.setItem("vbi-new-pro-progress",JSON.stringify(progress))}catch{}}
 function esc(x){return String(x??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
 function go(id){if(mode==="exam"&&id!=="study"&&id!=="result"&&id!=="exam"){if(!confirm("Thoát bài thi hiện tại?"))return;clearInterval(timer)}$$("main>section").forEach(s=>s.classList.toggle("active",s.id===id));window.scrollTo(0,0);if(id==="stats")stats();if(id==="data")report();if(id==="marked")savedList("marked");if(id==="wrong")savedList("wrong")}
-$$("[data-page]").forEach(b=>b.onclick=()=>go(b.dataset.page));$$(".back").forEach(b=>b.onclick=()=>go("home"));$("#homeBtn").onclick=()=>go("home");
+$$("[data-page]").forEach(b=>b.onclick=()=>go(b.dataset.page));$$(".back").forEach(b=>b.onclick=()=>go("home"));if($("#homeBtn"))$("#homeBtn").onclick=()=>go("home");
 async function init(){try{let r=await fetch("assets/data/questions.json");let d=await r.json();Q=Array.isArray(d.questions)?d.questions:[]}catch{Q=[]}updateStats();renderSets();renderTopics();report();$("#examStatus").textContent="Có "+verified().length+" câu đã xác minh. Cần đủ 40 câu để mở thi thử.";$("#startExam").disabled=verified().length<40}
 function verified(){return Q.filter(q=>q.verificationStatus==="verified"&&q.correctAnswer&&Array.isArray(q.options)&&q.options.length>=2)}
 function updateStats(){let a=Object.values(progress.answers);$("#bankCount").textContent=verified().length;$("#learnedCount").textContent=a.length;$("#accuracy").textContent=a.length?Math.round(a.filter(x=>x.correct).length/a.length*100)+"%":"—"}
