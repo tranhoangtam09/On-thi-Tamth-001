@@ -1,0 +1,16 @@
+name: Publish static app
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate JSON
+        run: python -m json.tool assets/data/questions.json > /dev/null && python -m json.tool assets/data/manifest.json > /dev/null
+      - name: Check expected files
+        run: test -f index.html && test -f assets/css/style.css && test -f assets/js/app.js
