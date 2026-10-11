@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026-10-11-only-user-supplied-sets-01-02",
+  "dataVersion": "2026-10-11-answer-keys-rechecked",
   "sourceScope": [
     {
       "setId": "SET01",
@@ -14,7 +14,7 @@
     }
   ],
   "questionCount": 120,
-  "verifiedQuestionCount": 111,
-  "needsReviewCount": 9,
-  "policy": "Không nhập hoặc sử dụng bộ đề khác. Câu needs-review không được dùng trong thi thử cho đến khi đối chiếu thủ công."
+  "verifiedQuestionCount": 120,
+  "needsReviewCount": 0,
+  "policy": "Chỉ sử dụng đúng 2 bộ đề PDF và 2 file đáp án Word do người dùng cung cấp. Đã đối chiếu ký hiệu đáp án theo số câu trong file đáp án tương ứng."
 }
