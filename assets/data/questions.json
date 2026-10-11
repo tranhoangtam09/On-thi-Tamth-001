@@ -833,7 +833,11 @@
         },
         {
           "key": "C",
-          "text": "Nguyên tắc trung thực tuyệt đối, nguyên tắc bồi thường, nguyên tắc thế quyền Nguyên tắc trung thực tuyệt đối, nguyên tắc quyền lợi có thể được bảo hiểm, nguyên tắc bồi thường, nguyên tắc rủi ro ngẫu nhiên."
+          "text": "Nguyên tắc trung thực tuyệt đối, nguyên tắc bồi thường, nguyên tắc thế quyền."
+        },
+        {
+          "key": "D",
+          "text": "Nguyên tắc trung thực tuyệt đối, nguyên tắc quyền lợi có thể được bảo hiểm, nguyên tắc bồi thường, nguyên tắc rủi ro ngẫu nhiên."
         }
       ],
       "correctAnswer": "D",
@@ -842,7 +846,7 @@
       "sourceQuestionFile": "1.1 BỘ ĐỀ SỐ 01.pdf",
       "sourceAnswerFile": "1.2 Đáp án bộ đề số 01.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": "Đã đối chiếu ký hiệu đáp án theo đúng file đáp án do người dùng cung cấp; không dùng nguồn ngoài.",
+      "verificationNotes": "Đã đối chiếu đáp án D trong file đáp án và bổ sung phương án D bị gộp vào phương án C khi trích xuất PDF.",
       "topicId": null,
       "topicName": null,
       "sourcePage": 12
