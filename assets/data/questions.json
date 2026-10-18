@@ -6393,6 +6393,10 @@
         {
           "key": "C",
           "text": "Không có quyền yêu cầu doanh nghiệp bảo hiểm kéo dài thời hạn bảo hiểm."
+        },
+        {
+          "key": "D",
+          "text": "Có quyền yêu cầu doanh nghiệp bảo hiểm rút ngắn thời hạn bảo hiểm."
         }
       ],
       "correctAnswer": "A",
@@ -6401,7 +6405,7 @@
       "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
       "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
       "verificationStatus": "verified",
-      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "verificationNotes": "Đối chiếu nội dung câu 35 theo ảnh người dùng cung cấp; đáp án A theo file đáp án bộ đề 04.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
