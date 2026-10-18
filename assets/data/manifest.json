@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026-10-11-answer-keys-rechecked",
+  "dataVersion": "2026-10-18-sets-03-05-imported-review",
   "sourceScope": [
     {
       "setId": "SET01",
@@ -11,10 +11,25 @@
       "setId": "SET02",
       "questionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
       "answerFile": "2.2 Đáp án bộ đề số 02.docx"
+    },
+    {
+      "setId": "SET03",
+      "questionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "answerFile": "3.2 Đáp án đề số 03.docx"
+    },
+    {
+      "setId": "SET04",
+      "questionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "answerFile": "4.2 Đáp án đề số 04.DOCX"
+    },
+    {
+      "setId": "SET05",
+      "questionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "answerFile": "5.2. Đáp án đề số 05.docx"
     }
   ],
-  "questionCount": 120,
-  "verifiedQuestionCount": 120,
-  "needsReviewCount": 0,
-  "policy": "Chỉ sử dụng đúng 2 bộ đề PDF và 2 file đáp án Word do người dùng cung cấp. Đã đối chiếu ký hiệu đáp án theo số câu trong file đáp án tương ứng."
+  "questionCount": 224,
+  "verifiedQuestionCount": 214,
+  "needsReviewCount": 10,
+  "policy": "Chỉ sử dụng đúng các PDF đề thi và file đáp án Word tương ứng do người dùng cung cấp. Câu trích xuất chưa khớp được đánh dấu needs-review; không tự suy đoán."
 }
