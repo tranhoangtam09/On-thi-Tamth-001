@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026-10-18-sets-03-05-imported-review",
+  "dataVersion": "2026-10-18-set04-questions-35-62",
   "sourceScope": [
     {
       "setId": "SET01",
@@ -18,18 +18,18 @@
       "answerFile": "3.2 Đáp án đề số 03.docx"
     },
     {
-      "setId": "SET04",
-      "questionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
-      "answerFile": "4.2 Đáp án đề số 04.DOCX"
-    },
-    {
       "setId": "SET05",
       "questionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
       "answerFile": "5.2. Đáp án đề số 05.docx"
+    },
+    {
+      "setId": "SET04",
+      "questionFile": "4.1 BỘ ĐỀ SỐ 04 BO SUNG 35-62 CAU(1).pdf",
+      "answerFile": "4.2 Đáp án đề số 04.DOCX"
     }
   ],
-  "questionCount": 224,
-  "verifiedQuestionCount": 214,
-  "needsReviewCount": 10,
-  "policy": "Chỉ sử dụng đúng các PDF đề thi và file đáp án Word tương ứng do người dùng cung cấp. Câu trích xuất chưa khớp được đánh dấu needs-review; không tự suy đoán."
+  "questionCount": 251,
+  "verifiedQuestionCount": 237,
+  "needsReviewCount": 14,
+  "policy": "Dữ liệu theo PDF và file đáp án người dùng cung cấp; câu hỏi chỉ được đánh dấu verified khi ký hiệu đáp án tồn tại trong các phương án trích xuất."
 }
