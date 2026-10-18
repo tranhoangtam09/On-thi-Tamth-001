@@ -31,5 +31,13 @@
   "questionCount": 251,
   "verifiedQuestionCount": 241,
   "needsReviewCount": 10,
-  "policy": "Dữ liệu theo PDF và file đáp án người dùng cung cấp; câu hỏi chỉ được đánh dấu verified khi ký hiệu đáp án tồn tại trong các phương án trích xuất."
+  "policy": "STRICT SOURCE AUDIT: Never auto-generate, infer, normalize, or overwrite correct answers. Correct answers must be copied from the corresponding user-provided answer-key file and checked against the exact question number and options in the corresponding PDF. If a key is missing, ambiguous, mismatched, or an option cannot be reliably extracted, preserve the source data, set verificationStatus='needs-review', and do not guess. Do not mark a set complete until PDF question count, unique numbering, all options, and answer-key count/answers have been compared. Current audit status: SET03 incomplete (34 questions present; 6 answers unresolved), SET04 62 questions present (question 16 answer unresolved), SET05 incomplete (35 records present; question 6 missing and record 36 needs review).",
+  "auditRules": [
+    "Do not automatically update or infer answer keys.",
+    "Use only the matching supplied PDF and answer-key file for each set.",
+    "Match by set number and question number, never by text similarity alone.",
+    "Keep the exact source option count and wording; do not add missing options.",
+    "Unresolved or conflicting items must remain needs-review and must not be reported as 100% verified.",
+    "Report actual question count, answer-key count, missing numbers, duplicate numbers, and answer mismatches separately."
+  ]
 }
