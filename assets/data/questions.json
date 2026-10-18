@@ -6707,7 +6707,7 @@
         },
         {
           "key": "C",
-          "text": "Bảo hiểm nhân thọ, bảo hiểm phi nhân thọ https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUQTY4S1pXRUtLQVZYV… 18/25 16:43 10/10/26 BỘ ĐỀ SỐ 04 VBI NEW 48"
+          "text": "Bảo hiểm nhân thọ, bảo hiểm phi nhân thọ"
         }
       ],
       "correctAnswer": "A",
@@ -6715,8 +6715,8 @@
       "explanation": "",
       "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 BO SUNG 35-62 CAU(1).pdf",
       "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "PDF extraction currently has 3 options; must verify all four options against the original page image.",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu nguyên văn câu hỏi và toàn bộ phương án hiện có trong PDF bộ đề 04; tài liệu nguồn của câu này có 3 phương án A–C, không tự thêm phương án D.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -6909,11 +6909,11 @@
         },
         {
           "key": "B",
-          "text": "Hoạt động đại lý bảo hiểm là việc cung cấp thông tin, tư vấn cho bên mua bảo hiểm về sản phẩm bảo hiểm, điều kiện bảo hiểm, mức phí bảo hiểm, doanh nghiệp bảo hiểm, và các công việc liên quan đến việc đàm phán, thu xếp và thực hiện hợp đồng bảo hiểm theo yêu cầu của bên mua bảo hiểm. https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUQTY4S1pXRUtLQVZYV… 20/25 16:43 10/10/26 BỘ ĐỀ SỐ 04 VBI NEW"
+          "text": "Hoạt động đại lý bảo hiểm là việc cung cấp thông tin, tư vấn cho bên mua bảo hiểm về sản phẩm bảo hiểm, điều kiện bảo hiểm, mức phí bảo hiểm, doanh nghiệp bảo hiểm, và các công việc liên quan đến việc đàm phán, thu xếp và thực hiện hợp đồng bảo hiểm theo yêu cầu của bên mua bảo hiểm."
         },
         {
           "key": "C",
-          "text": "Cả A,B đúng. 54"
+          "text": "Cả A,B đúng."
         }
       ],
       "correctAnswer": "C",
@@ -6921,8 +6921,8 @@
       "explanation": "",
       "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 BO SUNG 35-62 CAU(1).pdf",
       "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "PDF extraction currently has 3 options; must verify all four options against the original page image.",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu nguyên văn câu hỏi và toàn bộ phương án hiện có trong PDF bộ đề 04; tài liệu nguồn của câu này có 3 phương án A–C, không tự thêm phương án D.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -6979,7 +6979,7 @@
         },
         {
           "key": "C",
-          "text": "Sau khi đại lý bảo hiểm thực hiện một hoặc một số nội dung hoạt động đại lý bảo hiểm theo quy định của pháp luật để mang lại dịch vụ cho doanh nghiệp bảo hiểm 56"
+          "text": "Sau khi đại lý bảo hiểm thực hiện một hoặc một số nội dung hoạt động đại lý bảo hiểm theo quy định của pháp luật để mang lại dịch vụ cho doanh nghiệp bảo hiểm"
         }
       ],
       "correctAnswer": "C",
@@ -6987,8 +6987,8 @@
       "explanation": "",
       "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 BO SUNG 35-62 CAU(1).pdf",
       "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "PDF extraction currently has 3 options; must verify all four options against the original page image.",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu nguyên văn câu hỏi và toàn bộ phương án hiện có trong PDF bộ đề 04; tài liệu nguồn của câu này có 3 phương án A–C, không tự thêm phương án D.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
