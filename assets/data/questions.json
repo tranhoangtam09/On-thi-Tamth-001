@@ -1,12 +1,7 @@
 {
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026-10-11-answer-keys-rechecked",
-  "sourceScope": [
-    "1.1 BỘ ĐỀ SỐ 01.pdf",
-    "1.2 Đáp án bộ đề số 01.DOCX",
-    "2.1 BỘ ĐỀ SỐ 02.pdf",
-    "2.2 Đáp án bộ đề số 02.docx"
-  ],
+  "dataVersion": "2026-10-18-sets-03-05-imported-review",
+  "sourceScope": "Bộ đề 01–05 từ đúng PDF và file đáp án do người dùng cung cấp; câu 03–05 trích xuất tự động, các mục chưa khớp được đánh dấu needs-review.",
   "questions": [
     {
       "id": "SET01-Q001",
@@ -4075,7 +4070,3495 @@
       "topicId": null,
       "topicName": null,
       "sourcePage": 23
+    },
+    {
+      "id": "SET03-Q001",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 1,
+      "question": "Thời hạn thanh toán bồi thường của doanh nghiệp bảo hiểm là bao nhiêu ngày kể từ khi nhận được hồ sơ bồi thường thuộc trách nhiệm bảo hiểm của chủ xe cơ giới:",
+      "options": [
+        {
+          "key": "A",
+          "text": "15 ngày và không quá 30 ngày trong trường hợp phải tiến hành xác minh hồ sơ"
+        },
+        {
+          "key": "B",
+          "text": "20 ngày và không quá 30 ngày trong trường hợp phải tiến hành xác minh hồ sơ"
+        },
+        {
+          "key": "C",
+          "text": "15 ngày và không quá 90 ngày trong trường hợp phải tiến hành xác minh hồ sơ"
+        },
+        {
+          "key": "D",
+          "text": "30 ngày và không quá 40 ngày trong trường hợp phải tiến hành xác minh hồ sơ 5"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 1 trong 3.2 Đáp án đề số 03.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q002",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 2,
+      "question": "Bên thứ 3 trong BH trách nhiệm nghề nghiệp tư vấn đầu tư xây dựng gồm tất cả nhưng trừ:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bên mua bảo hiểm"
+        },
+        {
+          "key": "B",
+          "text": "Nhà dân bên cạnh công trình xây dựng"
+        },
+        {
+          "key": "C",
+          "text": "Người được bảo hiểm"
+        },
+        {
+          "key": "D",
+          "text": "A,C đúng https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUM1czSVcxQUo3VEhHMV… 2/25 16:23 10/10/26 BỘ ĐỀ SỐ 3 VBI NEW 6"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 2 trong 3.2 Đáp án đề số 03.docx; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q003",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 3,
+      "question": "Trường hợp người được bảo hiểm không thực hiện các biện pháp bảo đảm an toàn cho đối tượng bảo hiểm thì doanh nghiệp bảo hiểm có quyền:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đơn phương chấm dứt thực hiện hợp đồng bảo hiểm ngay tại thời điểm phát hiện thấy tăng nguy cơ rủi ro đối với đối tượng bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Tăng phí bảo hiểm ngay tại thời điểm phát hiện thấy tăng nguy cơ rủi ro đối với đối tượng bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "Ấn định một thời hạn để người được bảo hiểm thực hiện các biện pháp đó. Nếu hết thời hạn này mà các biện pháp bảo đảm an toàn vẫn không được thực hiện thì doanh nghiệp bảo hiểm có quyền tăng phí bảo hiểm hoặc đơn phương chấm dứt thực hiện hợp đồng bảo hiểm."
+        },
+        {
+          "key": "D",
+          "text": "A, B đúng. Đúng 1/1 Điểm 7"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 3 trong 3.2 Đáp án đề số 03.docx; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q004",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 4,
+      "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu: \"Hợp đồng bảo hiểm vô hiệu do bên mua bảo hiểm không có quyền lợi có thể được bảo hiểm tại thời điểm giao kết hợp đồng\" là:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai. 8"
+        }
+      ],
+      "correctAnswer": null,
+      "answerSourceText": "",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "needs-review",
+      "verificationNotes": "Chưa trích xuất được ký hiệu đáp án tương ứng từ file đáp án.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q005",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 5,
+      "question": "Theo Luật Kinh doanh bảo hiểm, việc chuyển giao hợp đồng bảo hiểm (trừ trường hợp việc chuyển giao được thực hiện theo tập quán quốc tế hoặc theo thỏa thuận trong hợp đồng bảo hiểm) chỉ có hiệu lực khi:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bên mua bảo hiểm thông báo bằng văn bản https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUM1czSVcxQUo3VEhHMV… 3/25 16:23 10/10/26 BỘ ĐỀ SỐ 3 VBI NEW"
+        },
+        {
+          "key": "B",
+          "text": "Được doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài trả lời bằng văn bản"
+        },
+        {
+          "key": "C",
+          "text": "A, B đúng"
+        },
+        {
+          "key": "D",
+          "text": "A, B sai 9"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 5 trong 3.2 Đáp án đề số 03.docx; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q006",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 6,
+      "question": "Theo Luật Kinh doanh bảo hiểm, hợp đồng bảo hiểm tài sản có thể chuyển giao được không?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Có"
+        },
+        {
+          "key": "B",
+          "text": "Không"
+        },
+        {
+          "key": "C",
+          "text": "Có, với điều kiện bên mua bảo hiểm thông báo bằng văn bản và được doanh nghiệp bảo hiểm đồng ý bằng văn bản, trừ trường hợp việc chuyển giao được thực hiện theo tập quán quốc tế hoặc theo thỏa thuận trong hợp đồng bảo hiểm. 10"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 6 trong 3.2 Đáp án đề số 03.docx; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q007",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 7,
+      "question": "Theo pháp luật Việt Nam về kinh doanh bảo hiểm, trong bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới, giới hạn trách nhiệm bảo hiểm đối với thiệt hại về sức khỏe, tính mạng do xe vơ giới gây ra là",
+      "options": [
+        {
+          "key": "A",
+          "text": "50 triệu/người/vụ"
+        },
+        {
+          "key": "B",
+          "text": "100 triệu/người/vụ"
+        },
+        {
+          "key": "C",
+          "text": "150 triệu/người/vụ"
+        },
+        {
+          "key": "D",
+          "text": "200 triệu/người/vụ https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUM1czSVcxQUo3VEhHMV… 4/25 16:23 10/10/26 BỘ ĐỀ SỐ 3 VBI NEW 11"
+        }
+      ],
+      "correctAnswer": "B",
+      "answerSourceText": "Đối chiếu theo câu 7 trong 3.2 Đáp án đề số 03.docx; đáp án: B.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q008",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 8,
+      "question": "Theo Luật Kinh doanh bảo hiểm, trong bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới, căn cứ vào lịch sử bồi thường bảo hiểm của từng xe cơ giới hoặc lịch sử gây tai nạn của chủ xe cơ giới, doanh nghiệp bảo hiểm chủ động xem xét, điều chỉnh tang giảm phí bảo hiểm, tối đa bao nhiêu % trên mức phí bảo hiểm theo quy định của pháp luật",
+      "options": [
+        {
+          "key": "A",
+          "text": "10%"
+        },
+        {
+          "key": "B",
+          "text": "15%"
+        },
+        {
+          "key": "C",
+          "text": "20%"
+        },
+        {
+          "key": "D",
+          "text": "25% Đúng 1/1 Điểm 12"
+        }
+      ],
+      "correctAnswer": null,
+      "answerSourceText": "",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "needs-review",
+      "verificationNotes": "Chưa trích xuất được ký hiệu đáp án tương ứng từ file đáp án.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q009",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 9,
+      "question": "Khách hàng có hàng hóa trị giá 10 tỷ. Khách hàng tham gia 2 hợp đồng bảo hiểm. hợp đồng A 6 tỷ, hđ B 9 tỷ. Rủi ro làm thiệt hại hàng hoá 5 tỷ. Hỏi hợp đồng A bồi thường cho KH bao nhiêu",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 tỷ"
+        },
+        {
+          "key": "B",
+          "text": "5 tỷ"
+        },
+        {
+          "key": "C",
+          "text": "9 t ỷ"
+        },
+        {
+          "key": "D",
+          "text": "6 tỷ 13"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 9 trong 3.2 Đáp án đề số 03.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q010",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 10,
+      "question": "Rủi ro là khả năng xảy ra biến cố bất thường có hậu quả thiệt hại hoặc mang lại kết quả không như mong đợi. Trong trường hợp người chịu ảnh hưởng của rủi ro vừa có thể gặp hậu quả xấu nhưng cũng có thể đạt được sự gia tăng lợi ích thì rủi ro này được hiểu là:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rủi ro thuần túy"
+        },
+        {
+          "key": "B",
+          "text": "Rủi ro đầu cơ https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUM1czSVcxQUo3VEhHMV… 5/25 16:23 10/10/26 BỘ ĐỀ SỐ 3 VBI NEW"
+        },
+        {
+          "key": "C",
+          "text": "Rủi ro chung"
+        },
+        {
+          "key": "D",
+          "text": "Rủi ro riêng 14"
+        }
+      ],
+      "correctAnswer": null,
+      "answerSourceText": "",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "needs-review",
+      "verificationNotes": "Chưa trích xuất được ký hiệu đáp án tương ứng từ file đáp án.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q011",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 11,
+      "question": "Theo pháp luật Việt Nam về kinh doanh bảo hiểm, tỷ lệ hoa hồng đại lý bảo hiểm tối đa với hợp đồng bảo hiểm hàng hóa vận chuyển là",
+      "options": [
+        {
+          "key": "A",
+          "text": "5%"
+        },
+        {
+          "key": "B",
+          "text": "10%"
+        },
+        {
+          "key": "C",
+          "text": "15%"
+        },
+        {
+          "key": "D",
+          "text": "20% Đúng 1/1 Điểm 15"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 11 trong 3.2 Đáp án đề số 03.docx; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q012",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 12,
+      "question": "Theo đơn bảo hiểm mọi rủi ro xây dựng/ lắp đặt (CAR/EAR) của nhà tái bảo hiểm Munich Re, tổn thất vật liệu, trang thiết bị lắp đặt trong khi vận chuyển trên khu vực công trường hay khi lắp đặt, tháo dỡ có được bảo hiểm không?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Có"
+        },
+        {
+          "key": "B",
+          "text": "Không 16"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 12 trong 3.2 Đáp án đề số 03.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q013",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 13,
+      "question": "Theo Luật Kinh doanh bảo hiểm, bên mua bảo hiểm có quyền hủy bỏ hợp đồng và được hoàn lại phí bảo hiểm đã đóng trong trường hợp nào sau đây: https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUM1czSVcxQUo3VEhHMV… 6/25 16:23 10/10/26 BỘ ĐỀ SỐ 3 VBI NEW",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doanh nghiệp bảo hiểm cố ý không thực hiện nghĩa vụ cung cấp thông tin nhằm giao kết hợp đồng bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Doanh nghiệp bảo hiểm cung cấp thông tin sai sự thật nhằm giao kết hợp đồng bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "A, B đúng."
+        },
+        {
+          "key": "D",
+          "text": "A, B sai. 17"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 13 trong 3.2 Đáp án đề số 03.docx; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q014",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 14,
+      "question": "Ông A mua bảo hiểm vật chất xe ô tô. Trong thời hạn bảo hiểm, ông A bán xe cho ông B và có văn bản đề nghị doanh nghiệp bảo hiểm chuyển giao hợp đồng bảo hiểm cho ông B, và doanh nghiệp bảo hiểm chấp thuận. Việc chuyển giao hợp đồng bảo hiểm như trên thực hiện theo nguyên tắc cơ bản nào của bảo hiểm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nguyên tắc thế quyền"
+        },
+        {
+          "key": "B",
+          "text": "Nguyên tắc trung thực tuyệt đối"
+        },
+        {
+          "key": "C",
+          "text": "Nguyên tắc quyền lợi có thể được bảo hiểm"
+        },
+        {
+          "key": "D",
+          "text": "Nguyên tắc bồi thường Đúng 1/1 Điểm 18"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 14 trong 3.2 Đáp án đề số 03.docx; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q015",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 15,
+      "question": "Người có quyền đối với tài sản thuê, mượn và phải chịu rủi ro về tài sản đó thìcó \"Quyền lợi có thể được bảo hiểm\" đối với tài sản đó trong thời gian thuê, mượn",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai. Đúng 1/1 Điểm https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUM1czSVcxQUo3VEhHMV… 7/25 16:23 10/10/26 BỘ ĐỀ SỐ 3 VBI NEW 19"
+        }
+      ],
+      "correctAnswer": null,
+      "answerSourceText": "",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "needs-review",
+      "verificationNotes": "Chưa trích xuất được ký hiệu đáp án tương ứng từ file đáp án.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q016",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 16,
+      "question": "Theo luật kinh doanh bảo hiểm, chọn phương án đúng nhất về \" nguyên tắc bồi thường\"",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số tiền bồi thường mà người được bảo hiểm nhận được không vượt quá thiệt hại thực tế trong sự kiện bảo hiểm, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Số tiền bồi thường mà người được bảo hiểm nhận được có thể lớn hơn thiệt hại thực tế trong sự kiện bảo hiểm"
+        },
+        {
+          "key": "C",
+          "text": "Số tiền bồi thường mà người được bảo hiểm nhận được tùy thuộc vào thỏa thuận giữa doanh nghiệp bảo hiểm và người được bảo hiểm trong hợp đồng bảo hiểm."
+        },
+        {
+          "key": "D",
+          "text": "B, C đúng 20"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 16 trong 3.2 Đáp án đề số 03.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q017",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 17,
+      "question": "Theo quy định tại Nghị định số 67/2023/NĐ-CP, đối với bảo hiểm bắt buộc trách nhiệm nghề nghiệp tư vấn đầu tư xây dựng, doanh nghiệp bảo hiểm có trách nhiệm bồi thường bảo hiểm trong trường hợp:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tổn thất phát sinh do nấm mốc."
+        },
+        {
+          "key": "B",
+          "text": "Tổn thất phát sinh do nhà thầu tư vấn có ý lưa chọn phương pháp thi công, tính toán, đo đạc, thiết kế, sử dụng vật liệu chưa được thử nghiệm."
+        },
+        {
+          "key": "C",
+          "text": "Tổn thất phát sinh từ việc vi phạm quyền sở hữu trí tuệ."
+        },
+        {
+          "key": "D",
+          "text": "Tổn thất của người thứ ba phát sinh từ việc thực hiện công việc tư vấn đầu tư xây dựng và các chi phí có liên quan theo quy định của pháp luật, trừ các trường hợp quy định tại khoản 2 Điều 43 Nghị định số 67/2023/NĐ-CP. 21"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 17 trong 3.2 Đáp án đề số 03.docx; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q018",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 18,
+      "question": "Trong vòng 3 ngày làm việc kể từ ngày nhận được thông báo của bên mua bảo hiểm, người được bảo hiểm về vụ tai nạn, doanh nghiệp bảo hiểm phải tạm ứng bồi thường đối với thiệt hại về sức khỏe, tính mạng đối với trường hợp tỷ lệ tổn thương từ 81% khi chưa xác định được vụ tai nạn có thuộc phạm vi trách nhiệm hay không với mức tạm ứng là https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUM1czSVcxQUo3VEhHMV… 8/25 16:23 10/10/26 BỘ ĐỀ SỐ 3 VBI NEW",
+      "options": [
+        {
+          "key": "A",
+          "text": "10% giới hạn trách nhiệm"
+        },
+        {
+          "key": "B",
+          "text": "30% giới hạn trách nhiệm"
+        },
+        {
+          "key": "C",
+          "text": "50% tổng số tiền bảo hiểm"
+        },
+        {
+          "key": "D",
+          "text": "70% chi phí điều trị Đúng 1/1 Điểm 22"
+        }
+      ],
+      "correctAnswer": null,
+      "answerSourceText": "",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "needs-review",
+      "verificationNotes": "Chưa trích xuất được ký hiệu đáp án tương ứng từ file đáp án.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q019",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 19,
+      "question": "Ông A dự kiến bay từ Hà Nội vào Thành phố Hồ Chí Minh vào ngày 01/03/2024. Tuy nhiên vào ngày 01/03/2024 theo dự báo thời tiết sẽ có bão to. Vì vậy ông A lùi lịch bay sang ngày 03/03/2024. Lựa chọn này của ông A là biện pháp phòng tránh rủi ro nào sau đây",
+      "options": [
+        {
+          "key": "A",
+          "text": "Né tránh rủi ro"
+        },
+        {
+          "key": "B",
+          "text": "Kiểm soát rủi ro"
+        },
+        {
+          "key": "C",
+          "text": "Chấp nhận rủi ro"
+        },
+        {
+          "key": "D",
+          "text": "Đánh giá rủi ro 23"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 19 trong 3.2 Đáp án đề số 03.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q020",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 20,
+      "question": "Hợp đồng bảo hiểm chấm dứt trong trường hợp nào sau đây:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bên mua bảo hiểm không đóng hoặc không đóng phí bảo hiểm theo thời hạn, không đóng đủ phí BH trong thời gian gia hạn đóng phí đã thoả thuận trong HĐBH."
+        },
+        {
+          "key": "B",
+          "text": "DNBH hoặc BMBH không chấp nhận các yêu cầu của bên còn lại khi rủi ro bảo hiểm có thể thay đổi. Khi đó DNBH phải hoàn phí bảo hiểm đã đóng cho thời gian còn lại của HĐBH và trả tiền bảo hiểm nếu sự kiện bảo hiểm xảy ra trước thời điểm chấm dứt."
+        },
+        {
+          "key": "C",
+          "text": "BMBH không đồng ý chuyển giao danh mục HĐBH. Khi đó, BMBH được nhận lại GTHL hoặc phí bảo hiểm đã đóng tương ứng với thời gian còn lại của HĐ"
+        },
+        {
+          "key": "D",
+          "text": "Cả A, B, C https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUM1czSVcxQUo3VEhHMV… 9/25 16:23 10/10/26 BỘ ĐỀ SỐ 3 VBI NEW 24"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 20 trong 3.2 Đáp án đề số 03.docx; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q021",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 21,
+      "question": "Theo Luật Kinh doanh bảo hiểm, trường hợp đơn phương chấm dứt thực hiện hợp đồng bảo hiểm do bên mua bảo hiểm không đóng phí bảo hiểm hoặc không đóng đủ phí bảo hiểm theo thời hạn thỏa thuận hoặc sau thời gian gia hạn đóng phí, bên mua bảo hiểm vẫn phải đóng đủ phí bảo hiểm đến thời điểm đơn phương chấm dứt thực hiện hợp đồng bảo hiểm. Quy định này được áp dụng đối với:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hợp đồng bảo hiểm trách nhiệm."
+        },
+        {
+          "key": "B",
+          "text": "Hợp đồng bảo hiểm tài sản."
+        },
+        {
+          "key": "C",
+          "text": "Hợp đồng bảo hiểm nhân thọ (trừ hợp đồng bảo hiểm nhóm)."
+        },
+        {
+          "key": "D",
+          "text": "A, B đúng Đúng 1/1 Điểm 25"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 21 trong 3.2 Đáp án đề số 03.docx; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q022",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 22,
+      "question": "Mức vốn điều lệ tối thiểu của doanh nghiệp bảo hiểm kinh doanh bảo hiểm phi nhân thọ và bảo hiểm sức khỏe là:",
+      "options": [
+        {
+          "key": "A",
+          "text": "400 tỷ đồng Việt Nam"
+        },
+        {
+          "key": "B",
+          "text": "300 tỷ đồng Việt Nam"
+        },
+        {
+          "key": "C",
+          "text": "500 tỷ đồng Việt Nam"
+        },
+        {
+          "key": "D",
+          "text": "200 tỷ đồng Việt Nam Đúng 1/1 Điểm 26"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 22 trong 3.2 Đáp án đề số 03.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q023",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 23,
+      "question": "Mức vốn điều lệ tối thiểu của doanh nghiệp bảo hiểm kinh doanh bảo hiểm phi nhân thọ (bao gồm vệ tinh hoặc hàng không) https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUM1czSVcxQUo3VEhHM… 10/25 16:23 10/10/26 BỘ ĐỀ SỐ 3 VBI NEW",
+      "options": [
+        {
+          "key": "A",
+          "text": "450 tỷ đồng Việt Nam"
+        },
+        {
+          "key": "B",
+          "text": "300 tỷ đồng Việt Nam"
+        },
+        {
+          "key": "C",
+          "text": "500 tỷ đồng Việt Nam"
+        },
+        {
+          "key": "D",
+          "text": "400 tỷ đồng Việt Nam 27"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 23 trong 3.2 Đáp án đề số 03.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q024",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 24,
+      "question": "Mức vốn điều lệ tối thiểu của doanh nghiệp tái bảo hiểm kinh doanh tái bảo hiểm phi nhân thọ và tái bảo hiểm sức khỏe là:",
+      "options": [
+        {
+          "key": "A",
+          "text": "400 tỷ đồng Việt Nam"
+        },
+        {
+          "key": "B",
+          "text": "300 tỷ đồng Việt Nam"
+        },
+        {
+          "key": "C",
+          "text": "500 tỷ đồng Việt Nam"
+        },
+        {
+          "key": "D",
+          "text": "200 tỷ đồng Việt Nam Đúng 1/1 Điểm 28"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 24 trong 3.2 Đáp án đề số 03.docx; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q025",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 25,
+      "question": "Theo quy định hoa hồng tối đa cho đại lý phi nhân thọ là:",
+      "options": [
+        {
+          "key": "A",
+          "text": "20%"
+        },
+        {
+          "key": "B",
+          "text": "15%"
+        },
+        {
+          "key": "C",
+          "text": "10%"
+        },
+        {
+          "key": "D",
+          "text": "5% Đúng 1/1 Điểm https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUM1czSVcxQUo3VEhHM… 11/25 16:23 10/10/26 BỘ ĐỀ SỐ 3 VBI NEW 29"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 25 trong 3.2 Đáp án đề số 03.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q026",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 26,
+      "question": "Doanh nghiệp bảo hiểm có trách nhiệm trích tối đa bao nhiêu% tổng số phí bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới thực tế thu được của các hợp đồng bảo hiểm gốc trong năm tài chính trước liền kề để đóng vào Quỹ bảo hiểm xe cơ giới",
+      "options": [
+        {
+          "key": "A",
+          "text": "1%"
+        },
+        {
+          "key": "B",
+          "text": "2%"
+        },
+        {
+          "key": "C",
+          "text": "3%"
+        },
+        {
+          "key": "D",
+          "text": "4% Đúng 1/1 Điểm 30"
+        }
+      ],
+      "correctAnswer": null,
+      "answerSourceText": "",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "needs-review",
+      "verificationNotes": "Chưa trích xuất được ký hiệu đáp án tương ứng từ file đáp án.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q027",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 27,
+      "question": "Theo quy định hoa hồng tối đa cho đại lý bảo hiểm nghiệp vụ bảo hiểm nông nghiệp là:",
+      "options": [
+        {
+          "key": "A",
+          "text": "20%"
+        },
+        {
+          "key": "B",
+          "text": "15%"
+        },
+        {
+          "key": "C",
+          "text": "10%"
+        },
+        {
+          "key": "D",
+          "text": "5% 31"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 27 trong 3.2 Đáp án đề số 03.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q028",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 28,
+      "question": "Trong bảo hiểm bắt buộc TNDS của chủ xe cơ giới, khi tai nạn xảy ra, trường hợp chủ xe cơ giới chết hoặc bị thương tật toàn bộ vĩnh viễn, doanh nghiệp bảo hiểm bồi thường trực tiếp cho",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chủ xe cơ giới"
+        },
+        {
+          "key": "B",
+          "text": "Lái xe"
+        },
+        {
+          "key": "C",
+          "text": "Người đại diện của chủ xe cơ giới https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUM1czSVcxQUo3VEhHM… 12/25 16:23 10/10/26 BỘ ĐỀ SỐ 3 VBI NEW"
+        },
+        {
+          "key": "D",
+          "text": "Người bị thiệt hại 32"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 28 trong 3.2 Đáp án đề số 03.docx; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q029",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 29,
+      "question": "Trong bảo hiểm nhân thọ, bảo hiểm sức khỏe, tai nạn là một sự kiện hoặc một chuỗi sự kiện liên tục, khách quan, xảy ra do tác động của một lực, một vật bất ngờ từ bên ngoài, không chủ động và ngoài ý muốn lên cơ thể của người được bảo hiểm. Sự kiện hoặc chuỗi sự kiện nêu trên phải là nguyên nhân trực tiếp, duy nhất và không liên quan đến bất kỳ nguyên nhân nào khác gây ra thương tật hoặc tử vong cho người được bảo hiểm trong vòng ngày kể từ ngày xảy ra sự kiện hoặc chuỗi sự kiện đó.",
+      "options": [
+        {
+          "key": "A",
+          "text": "90 ngày."
+        },
+        {
+          "key": "B",
+          "text": "120 ngày."
+        },
+        {
+          "key": "C",
+          "text": "150 ngày."
+        },
+        {
+          "key": "D",
+          "text": "180 ngày 33"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 29 trong 3.2 Đáp án đề số 03.docx; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q030",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 30,
+      "question": "Theo pháp luật Việt Nam về kinh doanh bảo hiểm, trong bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới, trường hợp đã xác định được vụ tai nạn thuộc phạm vi bồi thường thiệt hại, doanh nghiệp bảo hiểm phải tạm ứng bồi thường đối với thiệt hại về sức khoẻ, tính mạng là bao nhiêu % mức bồi thường bảo hiểm ước tính theo quy định cho một người trong một vụ tai nạn đối với trường hợp tổn thương bộ phận:",
+      "options": [
+        {
+          "key": "A",
+          "text": "10%"
+        },
+        {
+          "key": "B",
+          "text": "30%"
+        },
+        {
+          "key": "C",
+          "text": "50%"
+        },
+        {
+          "key": "D",
+          "text": "70% https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUM1czSVcxQUo3VEhHM… 13/25 16:23 10/10/26 BỘ ĐỀ SỐ 3 VBI NEW 34"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 30 trong 3.2 Đáp án đề số 03.docx; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q031",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 31,
+      "question": "Rủi ro ngẫu nhiên là gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bất ngờ"
+        },
+        {
+          "key": "B",
+          "text": "Không lường trước được về không gian, thời gian, cũng như mức độ nghiêm trọng"
+        },
+        {
+          "key": "C",
+          "text": "Cả A và B đều đúng 35"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 31 trong 3.2 Đáp án đề số 03.docx; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q032",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 32,
+      "question": "Theo Luật kinh doanh bảo hiểm, tỷ lệ hoa hồng bảo hiểm cháy nổ tự nguyện là",
+      "options": [
+        {
+          "key": "A",
+          "text": "20%"
+        },
+        {
+          "key": "B",
+          "text": "15%"
+        },
+        {
+          "key": "C",
+          "text": "10%"
+        },
+        {
+          "key": "D",
+          "text": "5% Đúng 1/1 Điểm 36"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 32 trong 3.2 Đáp án đề số 03.docx; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q033",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 33,
+      "question": "Theo Pháp luật kinh doanh bảo hiểm, thương tật toàn bộ vĩnh viễn của trường hợp mất 2/6 tay, chân tính như thế nào",
+      "options": [
+        {
+          "key": "A",
+          "text": "Với tay từ cổ tay trở lên, chân từ mắt cá chân trở lên"
+        },
+        {
+          "key": "B",
+          "text": "Với tay từ khủy tay trở lên, chân từ đầu gối chân trở lên"
+        },
+        {
+          "key": "C",
+          "text": "Với tay từ bàn tay trở lên, chân từ bàn chân trở lên https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUM1czSVcxQUo3VEhHM… 14/25 16:23 10/10/26 BỘ ĐỀ SỐ 3 VBI NEW 37"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 33 trong 3.2 Đáp án đề số 03.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET03-Q034",
+      "setId": "SET03",
+      "setName": "Bộ đề số 03",
+      "questionNumber": 34,
+      "question": "“Theo pháp luật Việt Nam về kinh doanh bảo hiểm, trong bảo hiểm cháy, nổ bắt buộc đối với cơ sở có nguy hiểm về cháy, nổ (trừ cơ sở hạt nhân), các trường hợp loại trừ trách nhiệm bảo hiểm bao gồm:”",
+      "options": [
+        {
+          "key": "A",
+          "text": "Động đất."
+        },
+        {
+          "key": "B",
+          "text": "Tài sản tự lên men hoặc tự toả nhiệt."
+        },
+        {
+          "key": "C",
+          "text": "Tài sản bị đốt cháy, làm nổ theo lệnh của cơ quan nhà nước có thẩm quyền."
+        },
+        {
+          "key": "D",
+          "text": "A, B, C đúng. 38"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 34 trong 3.2 Đáp án đề số 03.docx; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
+      "sourceAnswerFile": "3.2 Đáp án đề số 03.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q001",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 1,
+      "question": "Theo Luật kinh doanh bảo hiểm, nhà đầu tư nước ngoài được sở hữu cổ phần, vốn góp tối đa bao nhiêu % vốn điều lệ của doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "40%"
+        },
+        {
+          "key": "B",
+          "text": "60%"
+        },
+        {
+          "key": "C",
+          "text": "80%"
+        },
+        {
+          "key": "D",
+          "text": "100% 5"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 1 trong 4.2 Đáp án đề số 04.DOCX; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q002",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 2,
+      "question": "Khách hàng X có hàng hóa trị giá 10 tỷ. Khách hàng tham gia 2 hợp đồng bảo hiểm với giá trị hợp đồng A là 6 tỷ, Hợp đồng B là 9 tỷ. Xảy ra rủi ro làm thiệt hại 5 tỷ giá trị hàng hoá. Hỏi hợp đồng A bồi thường cho khách hàng bao nhiêu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 tỷ"
+        },
+        {
+          "key": "B",
+          "text": "2 tỷ"
+        },
+        {
+          "key": "C",
+          "text": "3 tỷ https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUQTY4S1pXRUtLQVZYVE… 2/25 16:43 10/10/26 BỘ ĐỀ SỐ 04 VBI NEW"
+        },
+        {
+          "key": "D",
+          "text": "4 tỷ Đúng 1/1 Điểm 6"
+        }
+      ],
+      "correctAnswer": "B",
+      "answerSourceText": "Đối chiếu theo câu 2 trong 4.2 Đáp án đề số 04.DOCX; đáp án: B.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q003",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 3,
+      "question": "Ông A dự kiến bay từ Hà Nội vào Thành phố Hồ Chí Minh vào ngày 01/03/2024. Tuy nhiên vào ngày 01/03/2024 theo dự báo thời tiết sẽ có bão to. Vì vậy ông A lùi lịch bay sang ngày 03/03/2024. Lựa chọn này của ông A là biện pháp phòng tránh rủi ro nào sau đây:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Né tránh rủi ro"
+        },
+        {
+          "key": "B",
+          "text": "Kiểm soát rủi ro"
+        },
+        {
+          "key": "C",
+          "text": "Chấp nhận rủi ro"
+        },
+        {
+          "key": "D",
+          "text": "Đánh giá rủi ro 7"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 3 trong 4.2 Đáp án đề số 04.DOCX; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q004",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 4,
+      "question": "Tư vấn là hoạt động:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cung cấp dịch vụ tư vấn về chương trình bảo hiểm, sản phẩm bảo hiểm"
+        },
+        {
+          "key": "B",
+          "text": "Quản trị rủi ro bảo hiểm"
+        },
+        {
+          "key": "C",
+          "text": "Đề phòng, hạn chế tổn thất bảo hiểm."
+        },
+        {
+          "key": "D",
+          "text": "A và C đúng"
+        },
+        {
+          "key": "E",
+          "text": "A, B và C đúng 8"
+        }
+      ],
+      "correctAnswer": "E",
+      "answerSourceText": "Đối chiếu theo câu 4 trong 4.2 Đáp án đề số 04.DOCX; đáp án: E.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q005",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 5,
+      "question": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUQTY4S1pXRUtLQVZYVE… 3/25 16:43 10/10/26 BỘ ĐỀ SỐ 04 VBI NEW Tổ chức cung cấp bảo hiểm vi mô bao gồm:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài thành lập và hoạt động tại Việt Nam;"
+        },
+        {
+          "key": "B",
+          "text": "Tổ chức tương hỗ cung cấp bảo hiểm vi mô thành lập và hoạt động tại Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "A & B đúng"
+        },
+        {
+          "key": "D",
+          "text": "A & B sai Đúng 1/1 Điểm 9"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 5 trong 4.2 Đáp án đề số 04.DOCX; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q006",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 6,
+      "question": "Theo luật kinh doanh bảo hiểm, bên mua bảo hiểm và doanh nghiệp bảo hiểm có quyền sửa đổi, bổ sung hợp đồng bảo hiểm nhóm trong trường hợp sau đây:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khi có ít nhất một người được bảo hiểm không còn là thành viên của nhóm"
+        },
+        {
+          "key": "B",
+          "text": "Khi có ít nhất một người được bảo hiểm bị chết 10"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 6 trong 4.2 Đáp án đề số 04.DOCX; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q007",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 7,
+      "question": "Khi có sự thay đổi những yếu tố làm cơ sở để tính phí bảo hiểm dẫn đến giảm các rủi ro được bảo hiểm, căn cứ thỏa thuận trong hợp đồng bảo hiểm, bên mua bảo hiểm có quyền yêu cầu doanh nghiệp bảo hiểm, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài thực hiện một trong các nội dung sau đây:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giảm phí bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm; tăng số tiền bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm; kéo dài thời hạn bảo hiểm;"
+        },
+        {
+          "key": "B",
+          "text": "Mở rộng phạm vi bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "Thu hẹp phạm vi bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm."
+        },
+        {
+          "key": "D",
+          "text": "A & B đúng"
+        },
+        {
+          "key": "E",
+          "text": "A, B & C đúng https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUQTY4S1pXRUtLQVZYVE… 4/25 16:43 10/10/26 BỘ ĐỀ SỐ 04 VBI NEW 11"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 7 trong 4.2 Đáp án đề số 04.DOCX; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q008",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 8,
+      "question": "Văn phòng đại diện nước ngoài tại Việt Nam có ít nhất bao nhiêu Đại lý Bảo hiểm?",
+      "options": [
+        {
+          "key": "A",
+          "text": "100"
+        },
+        {
+          "key": "B",
+          "text": "200"
+        },
+        {
+          "key": "C",
+          "text": "250"
+        },
+        {
+          "key": "D",
+          "text": "Không có Đại lý Đúng 1/1 Điểm 12"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 8 trong 4.2 Đáp án đề số 04.DOCX; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q009",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 9,
+      "question": "Chọn phương án đúng nhất về giá trị bảo hiểm:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giá trị bảo hiểm là giá thị trường của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Giá trị bảo hiểm là giá trị còn lại của tài sản được bảo hiểm theo giá trị sổ sách."
+        },
+        {
+          "key": "C",
+          "text": "A, B đúng. 13"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 9 trong 4.2 Đáp án đề số 04.DOCX; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q010",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 10,
+      "question": "Bảo hiểm trách nhiệm dân sự bắt buộc xe cơ giới, doanh nghiệp bảo hiểm theo quy định phải có thời hạn giám định tổn thất xác định nguyên nhân và mức độ tổn thất làm căn cứ giải quyết bồi thường bảo hiểm:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trong vòng 1h"
+        },
+        {
+          "key": "B",
+          "text": "Trong vòng 12h"
+        },
+        {
+          "key": "C",
+          "text": "Trong vòng 24h https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUQTY4S1pXRUtLQVZYVE… 5/25 16:43 10/10/26 BỘ ĐỀ SỐ 04 VBI NEW"
+        },
+        {
+          "key": "D",
+          "text": "Trong vòng 48h 14"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 10 trong 4.2 Đáp án đề số 04.DOCX; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q011",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 11,
+      "question": "Trong bảo hiểm tài sản đơn vị rủi ro được coi là cách biệt",
+      "options": [
+        {
+          "key": "A",
+          "text": "Về mặt cấu trúc nếu ngôi nhà, bộ phận nhà hoặc kho được ngăn cách bằng tường ngăn cháy"
+        },
+        {
+          "key": "B",
+          "text": "Về mặt không gian nếu giữa các ngôi nhà hoặc kho ngoài trời bằng vật liệu không cháy đảm bảo tối thiểu một khoảng cách nào đó"
+        },
+        {
+          "key": "C",
+          "text": "A, B đúng"
+        },
+        {
+          "key": "D",
+          "text": "A, B sai 15"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 11 trong 4.2 Đáp án đề số 04.DOCX; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q012",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 12,
+      "question": "Chọn phương án đúng về chi khen thưởng và hỗ trợ đại lý của doanh nghiệp bảo hiểm phi nhân thọ:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Được phép chi hỗ trợ đại lý nhưng không quá 50% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính"
+        },
+        {
+          "key": "B",
+          "text": "Chi khen thưởng và chi hỗ trợ đại lý không quá 50% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính"
+        },
+        {
+          "key": "C",
+          "text": "Được phép chi khen thưởng đại lý nhưng không quá 50% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính"
+        },
+        {
+          "key": "D",
+          "text": "Không được phép chi hỗ trợ Đúng 1/1 Điểm 16"
+        }
+      ],
+      "correctAnswer": "B",
+      "answerSourceText": "Đối chiếu theo câu 12 trong 4.2 Đáp án đề số 04.DOCX; đáp án: B.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q013",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 13,
+      "question": "Theo quy định, thời hạn bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUQTY4S1pXRUtLQVZYVE… 6/25 16:43 10/10/26 BỘ ĐỀ SỐ 04 VBI NEW",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tối thiểu là 1 năm và tối đa là 3 năm, theo luật quy định"
+        },
+        {
+          "key": "B",
+          "text": "Tối thiểu là 1 năm và tối đa là 3 năm, theo loại xe cơ giới 17"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 13 trong 4.2 Đáp án đề số 04.DOCX; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q014",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 14,
+      "question": "Trong khi vận hành, một xe nâng trong phạm vi khu vực được bảo hiểm đã va chạm nhẹ vào một nồi hơi thuộc danh mục được bảo hiểm. Sau thời điểm đó, khi vận hành nồi hơi, kỹ sư vận hành phát hiện có sự hư hỏng rò rỉ tại một mối hàn của nồi hơi, biết rằng nồi hơi thuộc danh mục được bảo hiểm theo Quy tắc bảo hiểm “Mọi rủi ro tài sản” của Hiệp hội bảo hiểm vương quốc Anh (ABI). Chi phí khác phục hư hỏng mối hàn của nồi hơi có thuộc phạm vi bảo hiểm không?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Không thuộc phạm vi bảo hiểm cho dù hư hỏng đó do hậu quả của sự va chạm với xe nâng"
+        },
+        {
+          "key": "B",
+          "text": "Thuộc trách nhiệm bảo hiểm nếu chứng minh được hư hỏng đó là hậu quả của sự va chạm với xe nâng 18"
+        }
+      ],
+      "correctAnswer": "B",
+      "answerSourceText": "Đối chiếu theo câu 14 trong 4.2 Đáp án đề số 04.DOCX; đáp án: B.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q015",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 15,
+      "question": "Đơn bảo hiểm theo quy tắc bảo hiểm CAR/EAR của nhà tái bảo hiểm Munich Re: Chi phí nào sau đây thuộc trách nhiệm bảo hiểm theo Phần II (Trách nhiệm đối với bên thứ ba):",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mọi chi phí phát sinh"
+        },
+        {
+          "key": "B",
+          "text": "Chi phí đã phát sinh với sự đồng ý bằng văn bản của doanh nghiệp bảo hiểm"
+        },
+        {
+          "key": "C",
+          "text": "Các chi phí pháp lý mà bên nguyên đơn đòi được từ người được bảo hiểm"
+        },
+        {
+          "key": "D",
+          "text": "B, C đúng Đúng 1/1 Điểm 19"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 15 trong 4.2 Đáp án đề số 04.DOCX; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q016",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 16,
+      "question": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUQTY4S1pXRUtLQVZYVE… 7/25 16:43 10/10/26 BỘ ĐỀ SỐ 04 VBI NEW Trường hợp quy tắc, điều kiện, điều khoản bảo hiểm có quy định về quyền lợi thương tật toàn bộ vĩnh viễn, Quyền lợi thương tật toàn bộ vĩnh viễn được xem xét chi trả khi xảy ra trường hợp người được bảo hiểm bị tổn thương cơ thể từ bao nhiêu % trở lên:",
+      "options": [
+        {
+          "key": "A",
+          "text": "81%"
+        },
+        {
+          "key": "B",
+          "text": "71%"
+        },
+        {
+          "key": "C",
+          "text": "61%"
+        },
+        {
+          "key": "D",
+          "text": "51% 20"
+        }
+      ],
+      "correctAnswer": null,
+      "answerSourceText": "",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "needs-review",
+      "verificationNotes": "Chưa trích xuất được ký hiệu đáp án tương ứng từ file đáp án.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q017",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 17,
+      "question": "NĐBH tham gia bảo hiểm năm đầu tiên, thời gian chờ đối với điều trị ốm đau bệnh tật thông thường đối với bảo hiểm kết hợp con người là:",
+      "options": [
+        {
+          "key": "A",
+          "text": "0 ngày"
+        },
+        {
+          "key": "B",
+          "text": "30 ngày"
+        },
+        {
+          "key": "C",
+          "text": "60 ngày"
+        },
+        {
+          "key": "D",
+          "text": "270 ngày Đúng 1/1 Điểm 21"
+        }
+      ],
+      "correctAnswer": "B",
+      "answerSourceText": "Đối chiếu theo câu 17 trong 4.2 Đáp án đề số 04.DOCX; đáp án: B.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q018",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 18,
+      "question": "Xe có giá trị thực tế 1,5 tỷ tham gia bảo hiểm Vật chất xe với Số tiền bảo hiểm 1,2 tỷ. Xe bị tổn thất thuộc trách nhiệm bảo hiểm, chi phí sửa chữa 200 triệu đồng. Tính số tiền bồi thường:",
+      "options": [
+        {
+          "key": "A",
+          "text": "160 triệu"
+        },
+        {
+          "key": "B",
+          "text": "200 triệu"
+        },
+        {
+          "key": "C",
+          "text": "200 triệu trừ đi giá trị khấu hao https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUQTY4S1pXRUtLQVZYVE… 8/25 16:43 10/10/26 BỘ ĐỀ SỐ 04 VBI NEW 22"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 18 trong 4.2 Đáp án đề số 04.DOCX; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q019",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 19,
+      "question": "Hợp đồng bảo hiểm sẽ chấm dứt hiệu lực một phần đối với một hoặc một số hạng mục tài sản:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bị tháo dỡ hoặc di chuyển ra ngoài khu vực hoặc địa điểm đã được quy định tại Hợp đồng bảo hiểm"
+        },
+        {
+          "key": "B",
+          "text": "Không còn thuộc quyền sở hữu hoặc quản lý hoặc sử dụng hợp pháp của bên mua bảo hiểm"
+        },
+        {
+          "key": "C",
+          "text": "A và B đúng"
+        },
+        {
+          "key": "D",
+          "text": "Không thể chấm dứt hiệu lực hợp đồng bảo hiểm Đúng 1/1 Điểm 23"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 19 trong 4.2 Đáp án đề số 04.DOCX; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q020",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 20,
+      "question": "Phát biểu nào sau đây đúng:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doanh nghiệp bảo hiểm có quyền giảm trừ tối đa 5% số tiền bồi thường thiệt hại đối với tài sản trong trường hợp bên mua bảo hiểm, người được bảo hiểm không thông báo tai nạn cho doanh nghiệp bảo hiểm"
+        },
+        {
+          "key": "B",
+          "text": "Mức bảo hiểm cụ thể về thiệt hại đối với tài sản trong một vụ tai nạn được xác định theo thiệt hại thực tế và theo mức độ lỗi của chủ xe cơ giới có thể vượt quá giới hạn trách nhiệm bảo hiểm. Đối với vụ tai nạn được cơ quan có thẩm quyền xác định nguyên nhân do lỗi hoàn toàn của người thứ ba, doanh nghiệp không phải bồi thường 24"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 20 trong 4.2 Đáp án đề số 04.DOCX; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q021",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 21,
+      "question": "Xe cơ giới A tham gia bảo hiểm TNDS bắt buộc; trong thời hạn bảo hiểm, khi lưu thông, xe A gây tai nạn làm người thứ ba(B) bị chết và xe máy bị tổn thất toàn bộ thực tế. Giả sử lỗi A/B là 70/30. Doanh nghiệp bảo hiểm sẽ bồi thường như thế nào",
+      "options": [
+        {
+          "key": "A",
+          "text": "Không bồi thường https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUQTY4S1pXRUtLQVZYVE… 9/25 16:43 10/10/26 BỘ ĐỀ SỐ 04 VBI NEW"
+        },
+        {
+          "key": "B",
+          "text": "Bồi thường 70% tổng thiệt hại về người và tài sản"
+        },
+        {
+          "key": "C",
+          "text": "Bồi thường 100% mức trách nhiệm về người và 70% mức trách nhiệm về tài sản 25"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 21 trong 4.2 Đáp án đề số 04.DOCX; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q022",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 22,
+      "question": "Quỹ bảo hiểm xe cơ giới được thành lập nhằm mục đích gì?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thực hiện các hoạt động chi hỗ trợ nhân đạo"
+        },
+        {
+          "key": "B",
+          "text": "Thực hiện công tác đề phòng, hạn chế tổn thất, tai nạn giao thông đường bộ"
+        },
+        {
+          "key": "C",
+          "text": "Công tác đề phòng, hạn chế tổn thất, tai nạn giao thông đường bộ; tuyên truyền, giáo dục về an toàn giao thông đường bộ, bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới và các hoạt động liên quan nhằm góp phần bảo vệ lợi ích công cộng và bảo đảm an toàn xã hội"
+        },
+        {
+          "key": "D",
+          "text": "A, B, C đúng 26"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 22 trong 4.2 Đáp án đề số 04.DOCX; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q023",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 23,
+      "question": "Trong bảo hiểm tài sản đúng giá trị, trường hợp doanh nghiệp bảo hiểm bồi thường toàn bộ bằng tài sản khác, phương án nào sau đây sai:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doanh nghiệp bảo hiểm có quyền thu hồi và/hoặc thanh lý tài sản bị thiệt hại"
+        },
+        {
+          "key": "B",
+          "text": "Bên mua bảo hiểm có quyền giữ lại tài sản bị thiệt hại nhưng phải trả cho doanh nghiệp bảo hiểm một chi phí hợp lý theo thỏa thuận trong hợp đồng bảo hiểm"
+        },
+        {
+          "key": "C",
+          "text": "Doanh nghiệp bảo hiểm có quyền thu hồi và thanh lý tài sản bị thiệt hại nhưng phải trả cho bên mua bảo hiểm một chi phí hợp lý theo thỏa thuận trong hợp đồng bảo hiểm"
+        },
+        {
+          "key": "D",
+          "text": "A, B đúng https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUQTY4S1pXRUtLQVZYV… 10/25 16:43 10/10/26 BỘ ĐỀ SỐ 04 VBI NEW 27"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 23 trong 4.2 Đáp án đề số 04.DOCX; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q024",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 24,
+      "question": "Quỹ bảo vệ người được bảo hiểm được thành lập để bảo vệ người được bảo hiểm trong trường hợp:",
+      "options": [
+        {
+          "key": "A",
+          "text": "DNBH có lỗi."
+        },
+        {
+          "key": "B",
+          "text": "DNBH mất khả năng thanh toán."
+        },
+        {
+          "key": "C",
+          "text": "DNBH phá sản."
+        },
+        {
+          "key": "D",
+          "text": "B, C đúng. 28"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 24 trong 4.2 Đáp án đề số 04.DOCX; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q025",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 25,
+      "question": "Xe có giá trị thực tế 1,2 tỷ tham gia bảo hiểm Vật chất xe với Số tiền bảo hiểm 1,5tỷ. Xe bị tổn thất toàn bộ thuộc trách nhiệm bảo hiểm, xác xe thanh lý được 25 triệu. Tính số tiền bồi thường:",
+      "options": [
+        {
+          "key": "A",
+          "text": "1,2 tỷ"
+        },
+        {
+          "key": "B",
+          "text": "1,5 tỷ"
+        },
+        {
+          "key": "C",
+          "text": "1,18 tỷ"
+        },
+        {
+          "key": "D",
+          "text": "1,175 tỷ Đúng 1/1 Điểm 29"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 25 trong 4.2 Đáp án đề số 04.DOCX; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q026",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 26,
+      "question": "Phát biểu nào đúng nhất về bảo hiểm trách nhiệm nghề nghiệp tư vấn đầu tư xây dựng:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số tiền bảo hiểm tối thiểu bằng giá trị hợp đồng tư vấn khảo sát, thiết kế xây dựng."
+        },
+        {
+          "key": "B",
+          "text": "Số tiền bảo hiểm tối đa bằng giá trị hợp đồng tư vấn khảo sát, thiết kế xây dựng."
+        },
+        {
+          "key": "C",
+          "text": "Số tiền bảo hiểm tối thiểu theo thỏa thuận giữa bên mua bảo hiểm và doanh nghiệp bảo hiểm https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUQTY4S1pXRUtLQVZYV… 11/25 16:43 10/10/26 BỘ ĐỀ SỐ 04 VBI NEW Đúng 1/1 Điểm 30"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 26 trong 4.2 Đáp án đề số 04.DOCX; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q027",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 27,
+      "question": "Chọn phương án đúng về chi khen thưởng và hỗ trợ đại lý của doanh nghiệp bảo hiểm sức khỏe:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chi khen thưởng và chi hỗ trợ đại lý không quá 100% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính"
+        },
+        {
+          "key": "B",
+          "text": "Chi khen thưởng và chi hỗ trợ đại lý không quá 50% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính"
+        },
+        {
+          "key": "C",
+          "text": "Được phép chi khen thưởng đại lý nhưng không quá 50% hoa hồng bảo hiểm của các hợp đồng bảo hiểm đã khai thác trong năm tài chính"
+        },
+        {
+          "key": "D",
+          "text": "Không được phép chi hỗ trợ 31"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 27 trong 4.2 Đáp án đề số 04.DOCX; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q028",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 28,
+      "question": "Thời hạn bảo hiểm của hợp đồng bảo hiểm trách nhiệm nghề nghiệp tư vấn đầu tư xây dựng là",
+      "options": [
+        {
+          "key": "A",
+          "text": "Từ ngày thực hiện công việc tư vấn cho đến khi hoàn thành."
+        },
+        {
+          "key": "B",
+          "text": "Từ ngày thực hiện công việc tư vấn cho đến hết thời gian bảo hành"
+        },
+        {
+          "key": "C",
+          "text": "Từ ngày thực hiện công việc tư vấn cho đến hết thời gian hồi tố 32"
+        }
+      ],
+      "correctAnswer": "B",
+      "answerSourceText": "Đối chiếu theo câu 28 trong 4.2 Đáp án đề số 04.DOCX; đáp án: B.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q029",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 29,
+      "question": "Theo pháp luật Việt Nam về kinh doanh bảo hiểm, trong bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới, trường hợp đã xác định được vụ tai nạn thuộc phạm vi bồi thường thiệt hại, doanh nghiệp bảo hiểm phải tạm ứng bồi thường đối với thiệt hại về sức khoẻ, tính mạng là bao nhiêu % mức bồi thường bảo hiểm ước tính theo quy định cho một người trong một vụ tai nạn đối với trường hợp tổn thương bộ phận:",
+      "options": [
+        {
+          "key": "A",
+          "text": "10% https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUQTY4S1pXRUtLQVZYV… 12/25 16:43 10/10/26 BỘ ĐỀ SỐ 04 VBI NEW"
+        },
+        {
+          "key": "B",
+          "text": "30%"
+        },
+        {
+          "key": "C",
+          "text": "50%"
+        },
+        {
+          "key": "D",
+          "text": "70% Đúng 1/1 Điểm 33"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 29 trong 4.2 Đáp án đề số 04.DOCX; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q030",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 30,
+      "question": "Theo Luật Kinh doanh bảo hiểm, chọn phương án sai về quyền của doanh nghiệp bảo hiểm:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bồi thường cho người được bảo hiểm những thiệt hại thuộc trách nhiệm bảo hiểm khi xảy ra sự kiện bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Thu phí bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "Yêu cầu bên mua bảo hiểm cung cấp đầy đủ, trung thực thông tin liên quan đến việc giao kết và thực hiện hợp đồng bảo hiểm."
+        },
+        {
+          "key": "D",
+          "text": "Từ chối trả tiền bảo hiểm cho người thụ hưởng hoặc từ chối bồi thường cho người được bảo hiểm trong trường hợp không thuộc phạm vi trách nhiệm bảo hiểm hoặc trường hợp loại trừ trách nhiệm bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm. 34"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 30 trong 4.2 Đáp án đề số 04.DOCX; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q031",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 31,
+      "question": "Theo Luật Kinh doanh bảo hiểm, chọn phương án đúng nhất về nghĩa vụ của doanh nghiệp bảo hiểm:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giải thích cho bên mua bảo hiểm về điều kiện, điều khoản bảo hiểm; quyền, nghĩa vụ của bên mua bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Yêu cầu bên mua bảo hiểm cung cấp đầy đủ thông tin liên quan đến giao kết hợp đồng"
+        },
+        {
+          "key": "C",
+          "text": "Phối hợp với bên mua bảo hiểm để giải quyết yêu cầu của người thứ ba đòi bồi thường về những thiệt hại thuộc trách nhiệm bảo hiểm khi xảy ra sự kiện bảo hiểm."
+        },
+        {
+          "key": "D",
+          "text": "A, B đúng."
+        },
+        {
+          "key": "E",
+          "text": "A,C đúng. https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUQTY4S1pXRUtLQVZYV… 13/25 16:43 10/10/26 BỘ ĐỀ SỐ 04 VBI NEW 35"
+        }
+      ],
+      "correctAnswer": "E",
+      "answerSourceText": "Đối chiếu theo câu 31 trong 4.2 Đáp án đề số 04.DOCX; đáp án: E.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q032",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 32,
+      "question": "Theo Luật Kinh doanh bảo hiểm, bên mua bảo hiểm có quyền:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yêu cầu doanh nghiệp bảo hiểm cung cấp bản yêu cầu bảo hiểm, bảng câu hỏi liên quan đến rủi ro được bảo hiểm, đối tượng bảo hiểm, quy tắc, điều kiện, điều khoản bảo hiểm và giải thích các điều kiện, điều khoản bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Hủy bỏ hợp đồng bảo hiểm trong trường hợp doanh nghiệp bảo hiểm cố ý cung cấp thông tin sai sự thật nhằm giao kết hợp đồng bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "Yêu cầu doanh nghiệp bảo hiểm bồi thường, trả tiền bảo hiểm khi xảy ra sự kiện bảo hiểm"
+        },
+        {
+          "key": "D",
+          "text": "A, B, C đúng. 36"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 32 trong 4.2 Đáp án đề số 04.DOCX; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q033",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 33,
+      "question": "Bên mua bảo hiểm không có nghĩa vụ:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thông báo những trường hợp có thể làm tăng rủi ro hoặc làm phát sinh thêm trách nhiệm của doanh nghiệp bảo hiểm trong quá trình thực hiện hợp đồng bảo hiểm theo yêu cầu của doanh nghiệp bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Đọc và hiểu rõ điều kiện điều khoản BH quyền nghĩa vụ của BMBH khi giao kết HĐBH và nội dung khác của HĐBH."
+        },
+        {
+          "key": "C",
+          "text": "Thanh toán các khoản chi phí liên quan đến việc đánh giá rủi ro được bảo hiểm."
+        },
+        {
+          "key": "D",
+          "text": "Áp dụng các biện pháp đề phòng hạn chế tổn thất theo quy định của Pháp luật. Đúng 1/1 Điểm 37"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 33 trong 4.2 Đáp án đề số 04.DOCX; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q034",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 34,
+      "question": "Theo Luật Kinh doanh bảo hiểm, bên mua bảo hiểm là: https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJUQTY4S1pXRUtLQVZYV… 14/25 16:43 10/10/26 BỘ ĐỀ SỐ 04 VBI NEW",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tổ chức, cá nhân giao kết hợp đồng bảo hiểm với doanh nghiệp bảo hiểm và đóng phí bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Tổ chức, cá nhân giao kết hợp đồng bảo hiểm với đại lý bảo hiểm và đóng phí bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "Tổ chức, cá nhân giao kết hợp đồng bảo hiểm với doanh nghiệp môi giới bảo hiểm và đóng phí bảo hiểm."
+        },
+        {
+          "key": "D",
+          "text": "Tổ chức, cá nhân giao kết hợp đồng bảo hiểm với doanh nghiệp tái bảo hiểm và đóng phí bảo hiểm. Đúng 1/1 Điểm 38"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 34 trong 4.2 Đáp án đề số 04.DOCX; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET04-Q035",
+      "setId": "SET04",
+      "setName": "Bộ đề số 04",
+      "questionNumber": 35,
+      "question": "Theo Luật Kinh doanh bảo hiểm, khi có sự thay đổi những yếu tố làm cơ sở để tính phí bảo hiểm dẫn đến giảm các rủi ro được bảo hiểm, căn cứ thỏa thuận tại hợp đồng bảo hiểm, bên mua bảo hiểm:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Có quyền yêu cầu doanh nghiệp bảo hiểm giảm phí bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Có quyền yêu cầu doanh nghiệp bảo hiểm giảm số tiền bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "Không có quyền yêu cầu doanh nghiệp bảo hiểm kéo dài thời hạn bảo hiểm."
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 35 trong 4.2 Đáp án đề số 04.DOCX; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 VBI NEW(8).pdf",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q001",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 1,
+      "question": "\"Nguyên tắc đồng góp bồi thường có liên quan trực tiếp nhất đến nguyên tắc nào sau đây:\"",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nguyên tắc thế quyền"
+        },
+        {
+          "key": "B",
+          "text": "Nguyên tắc bồi thường"
+        },
+        {
+          "key": "C",
+          "text": "Nguyên tắc nguyên nhân trực tiếp"
+        },
+        {
+          "key": "D",
+          "text": "Nguyên tắc quyền lợi có thể được bảo hiểm 5"
+        }
+      ],
+      "correctAnswer": "B",
+      "answerSourceText": "Đối chiếu theo câu 1 trong 5.2. Đáp án đề số 05.docx; đáp án: B.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q002",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 2,
+      "question": "Theo Luật Kinh doanh bảo hiểm, vốn điều lệ của doanh nghiệp bảo hiểm là:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tổng số tiền do thành viên đã góp hoặc cam kết góp khi thành lập công ty trách nhiệm hữu hạn và được ghi vào điều lệ của doanh nghiệp bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Tổng giá trị mệnh giá cổ phần đã bản hoặc được đăng ký mua khi thành lập công ty phần và được ghi vào điều lệ của doanh nghiệp bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "A, B đúng https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJURURIUkM4REJCMFpOT… 2/25 16:51 10/10/26 BỘ ĐỀ SỐ 05 VBI NEW 6"
+        }
+      ],
+      "correctAnswer": null,
+      "answerSourceText": "",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "needs-review",
+      "verificationNotes": "Chưa trích xuất được ký hiệu đáp án tương ứng từ file đáp án.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q003",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 3,
+      "question": "Theo Luật kinh doanh bảo hiểm, câu trả lời nào sau đây là đúng nhất về hợp đồng bảo hiểm trùng?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hợp đồng bảo hiểm trùng là trường hợp bên mua bảo hiểm giao kết hợp đồng bảo hiểm với hai doanh nghiệp bảo hiểm trở lên để bảo hiểm cho cùng một đối tượng bảo hiểm"
+        },
+        {
+          "key": "B",
+          "text": "Hợp đồng bảo hiểm trùng là trường hợp bên mua bảo hiểm giao kết nhiều hợp đồng bảo hiểm với một doanh nghiệp bảo hiểm để bảo hiểm cho cùng một đối tượng bảo hiểm"
+        },
+        {
+          "key": "C",
+          "text": "Hợp đồng bảo hiểm trùng là trường hợp có từ hai hợp đồng bảo hiểm trở lên để bảo hiểm cho cùng phạm vi, đối tượng, thời hạn và sự kiện bảo hiểm mà tổng số tiền bảo hiểm vượt quá giá thị trường của tài sản được bảo hiểm tại thời điểm giao kết hợp đồng bảo hiểm."
+        },
+        {
+          "key": "D",
+          "text": "A, B, C sai Đúng 1/1 Điểm 7"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 3 trong 5.2. Đáp án đề số 05.docx; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q004",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 4,
+      "question": "Chọn phương án đúng nhất: Trong bảo hiểm sức khỏe, đối với quyền lợi bảo hiểm chi phí y tế, doanh nghiệp bảo hiểm chịu trách nhiệm chi trả:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số tiền không vượt quá chỉ phi y tế thực tế mà người được bảo hiểm đã trả khi khám, chữa bệnh trong phạm vi số tiền bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Số tiền theo thỏa thuận tại hợp đồng bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "Số tiền có thể vượt quá chi phí y tế thực tế mà người được bảo hiểm đã trả khi khám chữa bệnh nhưng vẫn trong phạm vi số tiền bảo hiểm. 8"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 4 trong 5.2. Đáp án đề số 05.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q005",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 5,
+      "question": "Thời hạn bồi thường theo Quy tắc bảo hiểm “Gián đoạn kinh doanh” của Hiệp hội bảo hiểm Vương quốc Anh (ABI) là: https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJURURIUkM4REJCMFpOT… 3/25 16:51 10/10/26 BỘ ĐỀ SỐ 05 VBI NEW",
+      "options": [
+        {
+          "key": "A",
+          "text": "12 tháng trùng với thời hạn bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "12 tháng theo thỏa thuận sau thời hạn bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "Là thời hạn bắt đầu kể từ thời điểm phát sinh thiệt hại trong thời hạn bảo hiểm và kéo dài cho đến hết thời hạn bồi thường tối đa đã thỏa thuận."
+        },
+        {
+          "key": "D",
+          "text": "Được bắt đầu từ khi thiệt hại vật chất xảy ra trong thời hạn bảo hiểm gây ra việc gián đoạn kinh doanh và có thể kéo dài vượt quá thời hạn bảo hiểm tùy thuộc vào thời gian hồi phục hoạt động kinh doanh nhưng không vượt quá thời hạn bồi thường tối đa. Đúng 1/1 Điểm 9"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 5 trong 5.2. Đáp án đề số 05.docx; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q007",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 7,
+      "question": "Chọn phương án đúng về số tiền bồi thường trong đơn bảo hiểm trách nhiệm dân sự của chủ xe cơ giới đối với hàng hóa trên xe:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Số tiền bồi thường có thể vượt quá mức trách nhiệm bảo hiểm / vụ tổn thất."
+        },
+        {
+          "key": "B",
+          "text": "Số tiền bồi thường không được vượt quá mức trách nhiệm bảo hiểm/vụ tổn thất."
+        },
+        {
+          "key": "C",
+          "text": "Số tiền bồi thường không được vượt quá mức trách nhiệm bảo hiểm/Mỗi và mọi vụ tổn thất"
+        },
+        {
+          "key": "D",
+          "text": "A, B, C sai. https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJURURIUkM4REJCMFpOT… 4/25 16:51 10/10/26 BỘ ĐỀ SỐ 05 VBI NEW 11"
+        }
+      ],
+      "correctAnswer": "B",
+      "answerSourceText": "Đối chiếu theo câu 7 trong 5.2. Đáp án đề số 05.docx; đáp án: B.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q008",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 8,
+      "question": "Theo Quy tắc bảo hiểm Gián đoạn kinh doanh của Hiệp hội bảo hiểm Vương quốc Anh (ABI), các hạng mục nào sau đây có thể được bảo hiểm:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lợi nhuận ròng trước thuế."
+        },
+        {
+          "key": "B",
+          "text": "Chi phí mua nguyên vật liệu đầu vào để khôi phục hoạt động sản xuất kinh doanh."
+        },
+        {
+          "key": "C",
+          "text": "Chi phí thuê văn phòng, điện, nước vẫn phát sinh sau khi xảy ra thiệt hại để duy trì hoạt động sản xuất kinh doanh."
+        },
+        {
+          "key": "D",
+          "text": "A, B đúng."
+        },
+        {
+          "key": "E",
+          "text": "A, C đúng. 12"
+        }
+      ],
+      "correctAnswer": "E",
+      "answerSourceText": "Đối chiếu theo câu 8 trong 5.2. Đáp án đề số 05.docx; đáp án: E.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q009",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 9,
+      "question": "Bên mua bảo hiểm có thể thỏa thuận thanh toán phí bảo hiểm cho doanh nghiệp bảo hiểm theo quy định và phương thức sau:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thanh toán một lần."
+        },
+        {
+          "key": "B",
+          "text": "Thanh toán làm nhiều kỳ."
+        },
+        {
+          "key": "C",
+          "text": "Thời hạn thanh toán phí bảo hiểm không được vượt quá thời hạn bảo hiểm."
+        },
+        {
+          "key": "D",
+          "text": "A, B, C đúng. Đúng 1/1 Điểm 13"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 9 trong 5.2. Đáp án đề số 05.docx; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q010",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 10,
+      "question": "Trong bảo hiểm sức khỏe, doanh nghiệp bảo hiểm có chỉ trả chi phí điều trị trước và sau khi nhập viện do ốm đau, bệnh tật theo chỉ định của bác sỹ không?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Có https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJURURIUkM4REJCMFpOT… 5/25 16:51 10/10/26 BỘ ĐỀ SỐ 05 VBI NEW"
+        },
+        {
+          "key": "B",
+          "text": "Không. 14"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 10 trong 5.2. Đáp án đề số 05.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q011",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 11,
+      "question": "DNBH không được trả hoa hồng bảo hiểm cho đại lý bảo hiểm trong trường hợp đấu thầu. Theo bạn, yếu tố này có được quy định trong Luật Kinh doanh bảo hiểm không:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Có"
+        },
+        {
+          "key": "B",
+          "text": "Không. 15"
+        }
+      ],
+      "correctAnswer": null,
+      "answerSourceText": "",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "needs-review",
+      "verificationNotes": "Chưa trích xuất được ký hiệu đáp án tương ứng từ file đáp án.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q012",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 12,
+      "question": "Chọn phương án đúng nhất về loại trừ bảo hiểm; *",
+      "options": [
+        {
+          "key": "A",
+          "text": "Loại trừ bảo hiểm là loại trừ các rủi ro, tổn thất mà doanh nghiệp bảo hiểm không chịu trách nhiệm bồi thường, trả tiền bảo hiểm nếu xảy ra sự kiện bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Loại trừ bảo hiểm là loại trừ các rủi ro, tổn thất và chi phí phát sinh mà doanh nghiệp bảo hiểm không chịu trách nhiệm bồi thường, trả tiền bảo hiểm nếu xảy ra sự kiện bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "Loại trừ bảo hiểm được căn cứ theo các điều kiện, điều khoản loại trừ bảo hiểm quy định trong Quy tắc bảo hiểm và các điều khoản sửa đổi, bổ sung (nếu có) kèm theo hợp đồng bảo hiểm."
+        },
+        {
+          "key": "D",
+          "text": "A, C đúng."
+        },
+        {
+          "key": "E",
+          "text": "B, C đúng. Đúng 1/1 Điểm 16"
+        }
+      ],
+      "correctAnswer": "E",
+      "answerSourceText": "Đối chiếu theo câu 12 trong 5.2. Đáp án đề số 05.docx; đáp án: E.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q013",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 13,
+      "question": "Người có quyền đối với tài sản thuê, mượn và phải chịu rủi ro về tài sản đó thì có “Quyền lợi có thể được bảo hiểm” đối với tài sản đó trong thời gian thuê, mượn:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng. https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJURURIUkM4REJCMFpOT… 6/25 16:51 10/10/26 BỘ ĐỀ SỐ 05 VBI NEW"
+        },
+        {
+          "key": "B",
+          "text": "Sai. 17"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 13 trong 5.2. Đáp án đề số 05.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q014",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 14,
+      "question": "Theo Luật Kinh doanh bảo hiểm, tổ chức, cá nhân tại Việt Nam có nhu cầu tham gia bảo hiểm (trừ trường hợp sử dụng dịch vụ bảo hiểm qua biên giới theo điều ước Quốc tế mà nước CHXHCN Việt Nam là thành viên) thì phương án nào sau đây đúng nhất:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Được tham gia bảo hiểm tại doanh nghiệp bảo hiểm được cấp giấy phép thành lập và hoạt động tại Việt Nam."
+        },
+        {
+          "key": "B",
+          "text": "Được tham gia bảo hiểm tại chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài được cấp giấy phép thành lập và hoạt động tại Việt Nam."
+        },
+        {
+          "key": "C",
+          "text": "Được tham gia bảo hiểm tại tổ chức tương hỗ cung cấp bảo hiểm vi mô được cấp giấy phép thành lập và hoạt động tại Việt Nam"
+        },
+        {
+          "key": "D",
+          "text": "A, B, C đúng. 18"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 14 trong 5.2. Đáp án đề số 05.docx; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q015",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 15,
+      "question": "Người được bảo hiểm tham gia hợp đồng bảo hiểm sức khỏe với quyền lợi tử vong do tai nạn. Chọn phương án đúng nhất về cách thức doanh nghiệp bảo hiểm giải quyết trong trường hợp người được bảo hiểm tử vong do tai nạn:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chi trả 100% số tiền bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Chi trả theo nguyên tắc bồi thường."
+        },
+        {
+          "key": "C",
+          "text": "Doanh nghiệp bảo hiểm không có quyền yêu cầu người thứ ba bồi hoàn khoản tiền đã trả cho người thụ hưởng trong trường hợp người được bảo hiểm tử vong do lỗi của người thứ ba."
+        },
+        {
+          "key": "D",
+          "text": "A, C đúng"
+        },
+        {
+          "key": "E",
+          "text": "B, C đúng. https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJURURIUkM4REJCMFpOT… 7/25 16:51 10/10/26 BỘ ĐỀ SỐ 05 VBI NEW Đúng 1/1 Điểm 19"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 15 trong 5.2. Đáp án đề số 05.docx; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q016",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 16,
+      "question": "Trường hợp sự kiện bảo hiểm xảy ra trong thời gian gia hạn đóng phí và bên mua bảo hiểm chưa đóng đủ phí bảo hiểm, doanh nghiệp bảo hiểm có trách nhiệm chi trả quyền lợi bảo hiểm. Phát biểu trên là:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai. Đúng 1/1 Điểm 20"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 16 trong 5.2. Đáp án đề số 05.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q017",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 17,
+      "question": "Hợp đồng bảo hiểm trách nhiệm nghề nghiệp (Professional Indemnity) thường áp dụng thời hạn bảo hiểm trên cơ sở:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Khiếu nại được lập (Claim made basis),"
+        },
+        {
+          "key": "B",
+          "text": "Tổn thất phát sinh (Occurrence basis)."
+        },
+        {
+          "key": "C",
+          "text": "Kết hợp cơ sở sự kiện phát sinh (Occurrence basis) và khiếu nại phát sinh (Claim made basis)."
+        },
+        {
+          "key": "D",
+          "text": "Phát sinh hành vi lỗi (Act or omission committed) của người được bảo hiểm. Đúng 1/1 Điểm 21"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 17 trong 5.2. Đáp án đề số 05.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q018",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 18,
+      "question": "Theo Luật kinh doanh bảo hiểm, đối tượng bảo hiểm của hợp đồng bảo hiểm tài sản là:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tài sản theo quy định của Bộ luật Dân sự"
+        },
+        {
+          "key": "B",
+          "text": "Bất kỳ lợi ích kinh tế hoặc nghĩa vụ thực hiện hợp đồng hoặc nghĩa vụ theo pháp luật mà người được bảo hiểm phải gánh chịu khi xảy ra tổn thất."
+        },
+        {
+          "key": "C",
+          "text": "A, B đúng https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJURURIUkM4REJCMFpOT… 8/25 16:51 10/10/26 BỘ ĐỀ SỐ 05 VBI NEW 22"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 18 trong 5.2. Đáp án đề số 05.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q019",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 19,
+      "question": "Theo Luật Kinh doanh bảo hiểm, ngoài số tiền bồi thường đối với tổn thất thuộc trách nhiệm bảo hiểm, những chi phí cần thiết, hợp lý theo thỏa thuận tại hợp đồng bảo hiểm để thực hiện các biện pháp hạn chế tổn thất trong bảo hiểm tài sản có thuộc phạm vi bảo hiểm không?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Có."
+        },
+        {
+          "key": "B",
+          "text": "Không."
+        },
+        {
+          "key": "C",
+          "text": "Có, với điều kiện các biện pháp để hạn chế tổn thất được thực hiện theo hướng dẫn của doanh nghiệp bảo hiểm. Đúng 1/1 Điểm 23"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 19 trong 5.2. Đáp án đề số 05.docx; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q020",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 20,
+      "question": "Theo Luật Kinh doanh bảo hiểm, hoạt động đại lý bảo hiểm là:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Một hoặc một số hoạt động theo ủy quyền của doanh nghiệp bảo hiểm, bao gồm: tư vấn sản phẩm bảo hiểm; giới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm; thu phí bảo hiểm; thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Một hoặc một số hoạt động theo ủy quyền của bên mua bảo hiểm, bao gồm: tư vấn sản phẩm bảo hiểm; giới thiệu sản phẩm bảo hiểm; chào bán sản phẩm bảo hiểm; thu xếp việc giao kết hợp đồng bảo hiểm; thu phí bảo hiểm; thu thập hồ sơ để phục vụ việc giải quyết bồi thường, trả tiền bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "A, B đúng Đúng 1/1 Điểm 24"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 20 trong 5.2. Đáp án đề số 05.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q021",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 21,
+      "question": "Phát biểu sau đây đúng hay sai: \"Quy tắc bảo hiểm mọi rủi ro xây dựng lắp đặt (CAR/EAR) của nhà tái bảo hiểm Munich Re: Khi quy định về thời hạn bảo hiểm cần phải tách riêng thời gian xây dựng lắp đặt và thời gian bảo hành\".",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng. https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJURURIUkM4REJCMFpOT… 9/25 16:51 10/10/26 BỘ ĐỀ SỐ 05 VBI NEW"
+        },
+        {
+          "key": "B",
+          "text": "Sai. 25"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 21 trong 5.2. Đáp án đề số 05.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q022",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 22,
+      "question": "Chọn phương án đúng nhất về mức trách nhiệm bảo hiểm",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mức trách nhiệm bảo hiểm là trách nhiệm của người được bảo hiểm đối với người thứ ba."
+        },
+        {
+          "key": "B",
+          "text": "Mức trách nhiệm bảo hiểm là một khoản tiền giới hạn trách nhiệm cho mỗi sự cố hoặc cho cả thời hạn bảo hiểm"
+        },
+        {
+          "key": "C",
+          "text": "Mức trách nhiệm bảo hiểm là mức trách nhiệm của doanh nghiệp bảo hiểm đối với người thứ ba về người và tài sản trong mỗi sự cố hoặc cho cả thời hạn bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "Mức trách nhiệm bảo hiểm là số tiền tối đa mà doanh nghiệp bảo hiểm phải trả cho người được bảo hiểm trong một sự kiện bảo hiểm hoặc trong cả thời hạn bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm 26"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 22 trong 5.2. Đáp án đề số 05.docx; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q023",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 23,
+      "question": "Phạm vi bảo hiểm của bảo hiểm trách nhiệm dân sự xe cơ giới là: Thiệt hại ngoài hợp đồng về thân thể, tính mạng và tài sản đối với bên thứ ba do xe cơ giới gây ra. Trách nhiệm bồi thường thiệt hại ngoài hợp đồng được hiểu là:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bên có nghĩa vụ dân sự đã cam kết trong hợp đồng mà không thực hiện hoặc thực hiện không đúng nghĩa vụ sẽ phải bồi thường cho bên kia."
+        },
+        {
+          "key": "B",
+          "text": "Hành vi gây hại không liên quan đến việc thực hiện nghĩa vụ dân sự của bất kỳ hợp đồng nào. 27"
+        }
+      ],
+      "correctAnswer": "B",
+      "answerSourceText": "Đối chiếu theo câu 23 trong 5.2. Đáp án đề số 05.docx; đáp án: B.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q024",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 24,
+      "question": "Theo Luật Kinh doanh bảo hiểm, hoạt động của doanh nghiệp bảo hiểm nhận một khoản phí tái bảo hiểm của doanh nghiệp bảo hiểm khác để cam kết bồi thường cho các trách nhiệm đã nhận bảo hiểm là: https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJURURIUkM4REJCMFpO… 10/25 16:51 10/10/26 BỘ ĐỀ SỐ 05 VBI NEW",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kinh doanh bảo hiểm"
+        },
+        {
+          "key": "B",
+          "text": "Kinh doanh tái bảo hiểm"
+        },
+        {
+          "key": "C",
+          "text": "Nhượng tái bảo hiểm Đúng 1/1 Điểm 28"
+        }
+      ],
+      "correctAnswer": "B",
+      "answerSourceText": "Đối chiếu theo câu 24 trong 5.2. Đáp án đề số 05.docx; đáp án: B.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q025",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 25,
+      "question": "Trong bảo hiểm sức khỏe, doanh nghiệp bảo hiểm có chi trả chi phí điều trị trước và sau khi nhập viện do ốm đau, bệnh tật theo chỉ định của bác sỹ không?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Có"
+        },
+        {
+          "key": "B",
+          "text": "Không. 29"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 25 trong 5.2. Đáp án đề số 05.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q026",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 26,
+      "question": "Theo Luật Kinh doanh bảo hiểm, doanh nghiệp bảo hiểm không được ủy quyền cho đại lý bảo hiểm thực hiện hoạt động nào dưới đây:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Giới thiệu, chào bán sản phẩm bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Thu xếp giao kết hợp đồng bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "Thu phí bảo hiểm."
+        },
+        {
+          "key": "D",
+          "text": "Thu xếp tái bảo hiểm. 30"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 26 trong 5.2. Đáp án đề số 05.docx; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q027",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 27,
+      "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào dưới đây sai: https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJURURIUkM4REJCMFpOT… 11/25 16:51 10/10/26 BỘ ĐỀ SỐ 05 VBI NEW",
+      "options": [
+        {
+          "key": "A",
+          "text": "Luật kinh doanh bảo hiểm quy định về tổ chức và hoạt động kinh doanh bảo hiểm; quyền và nghĩa vụ của tổ chức, cá nhân tham gia bảo hiểm; quản lý nhà nước về hoạt động kinh doanh bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước bảo đảm quyền, lợi ích hợp pháp của các tổ chức, cá nhân tham gia bảo hiểm và các tổ chức hoạt động kinh doanh bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "Tổ chức, cá nhân tại Việt Nam có nhu cầu tham gia bảo hiểm có thể tham gia bảo hiểm tại bất kỳ doanh nghiệp bảo hiểm nào hoạt động tại Việt Nam hoặc nước ngoài. 31"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 27 trong 5.2. Đáp án đề số 05.docx; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q028",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 28,
+      "question": "Khi tham gia hợp đồng bảo hiểm sức khỏe với quyền lợi bảo hiểm tai nạn, người được bảo hiểm có thể được nhận quyền lợi bảo hiểm nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Thương tật bộ phận vĩnh viễn do tai nạn."
+        },
+        {
+          "key": "B",
+          "text": "Trợ cấp mất, giảm thu nhập do tai nạn."
+        },
+        {
+          "key": "C",
+          "text": "Thai sản."
+        },
+        {
+          "key": "D",
+          "text": "A, B đúng."
+        },
+        {
+          "key": "E",
+          "text": "A, B, C đúng. 32"
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 28 trong 5.2. Đáp án đề số 05.docx; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q029",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 29,
+      "question": "Chọn phương án đúng nhất: bảo hiểm sức khỏe có thể bảo hiểm cho các rủi ro nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tai nạn."
+        },
+        {
+          "key": "B",
+          "text": "Ốm đau, bệnh tật."
+        },
+        {
+          "key": "C",
+          "text": "Thai sản."
+        },
+        {
+          "key": "D",
+          "text": "A, B đúng."
+        },
+        {
+          "key": "E",
+          "text": "A, B, C đúng. https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJURURIUkM4REJCMFpO… 12/25 16:51 10/10/26 BỘ ĐỀ SỐ 05 VBI NEW 33"
+        }
+      ],
+      "correctAnswer": "E",
+      "answerSourceText": "Đối chiếu theo câu 29 trong 5.2. Đáp án đề số 05.docx; đáp án: E.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q030",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 30,
+      "question": "Phát biểu nào sau đây là đúng với quyền lợi trợ cấp thu nhập trong trường hợp thương tật toàn bộ vĩnh viễn:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Quyền lợi này thường được gắn kèm với các hợp đồng có bên mua bảo hiểm là người được bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Số tiền trợ cấp hàng tháng thường được gắn với tỷ lệ % số tiền bảo hiểm của hợp đồng bảo hiểm chính."
+        },
+        {
+          "key": "C",
+          "text": "Doanh nghiệp bảo hiểm sẽ trả cho bên mua bảo hiểm/người được bảo hiểm một khoản tiền trợ cấp hàng tháng trong trường hợp người được bảo hiểm bị thương tật toàn bộ vĩnh viễn."
+        },
+        {
+          "key": "D",
+          "text": "A, B, C đúng. Đúng 1/1 Điểm 34"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 30 trong 5.2. Đáp án đề số 05.docx; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q031",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 31,
+      "question": "Theo luật kinh doanh bảo hiểm, trong hoạt động đại lý bảo hiểm, doanh nghiệp bảo hiểm có quyền:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tuyển dụng đại lý bảo hiểm và giao kết hợp đồng đại lý bảo hiểm, quyết định mức chi trả hoa hồng đại lý bảo hiểm trong hợp đồng đại lý bảo hiểm không vượt quá mức tối đa theo quy định của Bộ trưởng bộ tài chính"
+        },
+        {
+          "key": "B",
+          "text": "Không chịu trách nhiệm về hợp đồng bảo hiểm do đại lý thu xếp, giao kết trrong trường hợp đại lý bảo hiểm vi phạm hợp đồng đại lý bảo hiểm, gây thiệt hại đến quyền, lợi ích hợp pháp của người được bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "Nhận và quản lý tiền ký quỹ hoặc tài sản thế chấp của đại lý trong mọi trường hợp"
+        },
+        {
+          "key": "D",
+          "text": "Tuyển dụng đại lý bảo hiểm và giao kết hợp đồng đại lý bảo hiểm, chủ động quyết định chi trả hoa hồng đại lý bảo hiểm trong hợp đồng đại lý bảo hiểm 35"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 31 trong 5.2. Đáp án đề số 05.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q032",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 32,
+      "question": "Trong bảo hiểm tài sản, trường hợp doanh nghiệp bảo hiểm và bên mua bảo hiểm không thoả thuận được về hình thức bồi thường thì việc bồi thường sẽ được thực hiện bằng hình thức: https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJURURIUkM4REJCMFpO… 13/25 16:51 10/10/26 BỘ ĐỀ SỐ 05 VBI NEW",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sửa chữa tài sản bị thiệt hại"
+        },
+        {
+          "key": "B",
+          "text": "Thay thế tài sản bị thiệt hại bằng tài sản khác"
+        },
+        {
+          "key": "C",
+          "text": "Trả tiền bồi thường"
+        },
+        {
+          "key": "D",
+          "text": "A, B,C sai 36"
+        }
+      ],
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu theo câu 32 trong 5.2. Đáp án đề số 05.docx; đáp án: C.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q033",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 33,
+      "question": "Chọn phương án đúng nhất về phương pháp quản lý rủi ro",
+      "options": [
+        {
+          "key": "A",
+          "text": "Né tránh rủi ro."
+        },
+        {
+          "key": "B",
+          "text": "Chấp nhận rủi ro."
+        },
+        {
+          "key": "C",
+          "text": "Kiểm soát rủi ro."
+        },
+        {
+          "key": "D",
+          "text": "Chuyển giao rủi ro."
+        },
+        {
+          "key": "E",
+          "text": "A, B, C, D đúng. Đúng 1/1 Điểm 37"
+        }
+      ],
+      "correctAnswer": "E",
+      "answerSourceText": "Đối chiếu theo câu 33 trong 5.2. Đáp án đề số 05.docx; đáp án: E.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q034",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 34,
+      "question": "Khi tham gia hợp đồng bảo hiểm sức khỏe với quyền lợi bảo hiểm tai nạn, người được bảo hiểm không được nhận quyền lợi bảo hiểm nào sau đây?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trợ cấp lương, thu nhập do ốm đau, bệnh tật."
+        },
+        {
+          "key": "B",
+          "text": "Chi phí y tế điều trị tai nạn."
+        },
+        {
+          "key": "C",
+          "text": "Thương tật tạm thời do tai nạn."
+        },
+        {
+          "key": "D",
+          "text": "B, C đúng. Đúng 1/1 Điểm https://forms.cloud.microsoft/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__oXZJjJURURIUkM4REJCMFpO… 14/25 16:51 10/10/26 BỘ ĐỀ SỐ 05 VBI NEW 38"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 34 trong 5.2. Đáp án đề số 05.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q035",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 35,
+      "question": "Theo Luật Kinh doanh bảo hiểm, phát biểu nào dưới đây là đúng:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Doanh nghiệp bảo hiểm là doanh nghiệp được thành lập, tổ chức và hoạt động theo quy định của Luật này và luật khác có liên quan để kinh doanh bảo hiểm, kinh doanh tái bảo hiểm, nhượng tái bảo hiểm. Doanh nghiệp bảo hiểm bao gồm doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm sức khỏe."
+        },
+        {
+          "key": "B",
+          "text": "Hoạt động đại lý bảo hiểm là việc cung cấp thông tin, tư vấn cho bên mua bảo hiểm về sản phẩm bảo hiểm, điều kiện bảo hiểm, mức phí bảo hiểm, doanh nghiệp bảo hiểm, và các công việc liên quan đến việc đàm phán, thu xếp và thực hiện hợp đồng bảo hiểm theo yêu cầu của bên mua bảo hiểm."
+        },
+        {
+          "key": "C",
+          "text": "A, B sai. 39"
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu theo câu 35 trong 5.2. Đáp án đề số 05.docx; đáp án: A.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Ký hiệu đáp án có trong các phương án trích xuất từ PDF; cần kiểm tra đầy đủ văn bản nguồn trước khi tuyên bố chính xác tuyệt đối.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
+    },
+    {
+      "id": "SET05-Q036",
+      "setId": "SET05",
+      "setName": "Bộ đề số 05",
+      "questionNumber": 36,
+      "question": "Chọn phương án sai về các bên trong hợp đồng bảo hiểm:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bên mua bảo hiểm."
+        },
+        {
+          "key": "B",
+          "text": "Doanh nghiệp bảo hiểm."
+        }
+      ],
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu theo câu 36 trong 5.2. Đáp án đề số 05.docx; đáp án: D.",
+      "explanation": "",
+      "sourceQuestionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05.docx",
+      "verificationStatus": "needs-review",
+      "verificationNotes": "Ký hiệu đáp án trong file Word không khớp với các phương án trích xuất được từ PDF; cần rà soát bản gốc.",
+      "topicId": null,
+      "topicName": null,
+      "sourcePage": null
     }
   ],
-  "note": "Chỉ chứa 2 bộ đề và 2 tệp đáp án người dùng chỉ định. Các câu chưa có ký hiệu đáp án trích xuất chắc chắn được giữ trạng thái needs-review và không dùng trong thi thử."
+  "note": "Bộ 03–05 đã được bổ sung từ tài liệu nguồn. Không khẳng định chính xác tuyệt đối: các câu needs-review cần đối chiếu thủ công trước khi dùng cho thi thử."
 }
