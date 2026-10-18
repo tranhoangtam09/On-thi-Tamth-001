@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026-10-18-set04-questions-35-62",
+  "dataVersion": "2026-10-18-set03-set04-set05-source-sync-v1",
   "sourceScope": [
     {
       "setId": "SET01",
@@ -10,34 +10,100 @@
     {
       "setId": "SET02",
       "questionFile": "2.1 BỘ ĐỀ SỐ 02.pdf",
-      "answerFile": "2.2 Đáp án bộ đề số 02.docx"
+      "answerFile": "2.2 Đáp án đề số 02.docx"
     },
     {
       "setId": "SET03",
-      "questionFile": "3.1 BỘ ĐỀ SỐ 03 VBI NEW.pdf",
-      "answerFile": "3.2 Đáp án đề số 03.docx"
-    },
-    {
-      "setId": "SET05",
-      "questionFile": "5.1 BỘ ĐỀ SỐ 05 VBI NEW(4).pdf",
-      "answerFile": "5.2. Đáp án đề số 05.docx"
+      "questionFile": "3.1 Bộ đề số 03.docx",
+      "answerFile": "3.2 Đáp án đề số 03(1).docx"
     },
     {
       "setId": "SET04",
-      "questionFile": "4.1 BỘ ĐỀ SỐ 04 BO SUNG 35-62 CAU(1).pdf",
-      "answerFile": "4.2 Đáp án đề số 04.DOCX"
+      "questionFile": "4.2 Bộ đề số 04.docx",
+      "answerFile": "4.2 Đáp án đề số 04(1).DOCX"
+    },
+    {
+      "setId": "SET05",
+      "questionFile": "5.1 Bộ đề số 05.docx",
+      "answerFile": "5.2. Đáp án đề số 05(1).docx"
     }
   ],
-  "questionCount": 251,
-  "verifiedQuestionCount": 241,
-  "needsReviewCount": 10,
-  "policy": "STRICT SOURCE AUDIT: Never auto-generate, infer, normalize, or overwrite correct answers. Correct answers must be copied from the corresponding user-provided answer-key file and checked against the exact question number and options in the corresponding PDF. If a key is missing, ambiguous, mismatched, or an option cannot be reliably extracted, preserve the source data, set verificationStatus='needs-review', and do not guess. Do not mark a set complete until PDF question count, unique numbering, all options, and answer-key count/answers have been compared. Current audit status: SET03 incomplete (34 questions present; 6 answers unresolved), SET04 62 questions present (question 16 answer unresolved), SET05 incomplete (35 records present; question 6 missing and record 36 needs review).",
+  "questionCount": 302,
+  "verifiedQuestionCount": 282,
+  "needsReviewCount": 20,
+  "policy": "Strict source audit: answers must be sourced from the corresponding supplied answer file and checked against the matching question/option set. Items with extraction or matching uncertainty remain needs-review with no active answer key; never infer answers or claim 100% verified unless all rows are cross-checked.",
   "auditRules": [
-    "Do not automatically update or infer answer keys.",
-    "Use only the matching supplied PDF and answer-key file for each set.",
+    "Update SET03, SET04 and SET05 only; preserve SET01 and SET02 records.",
     "Match by set number and question number, never by text similarity alone.",
-    "Keep the exact source option count and wording; do not add missing options.",
-    "Unresolved or conflicting items must remain needs-review and must not be reported as 100% verified.",
+    "Preserve source wording and exact option count; avoid guessed or fabricated options.",
+    "Unresolved or conflicting items remain needs-review with correctAnswer=null and are not reported as fully verified.",
     "Report actual question count, answer-key count, missing numbers, duplicate numbers, and answer mismatches separately."
-  ]
+  ],
+  "lastAudit": {
+    "date": "2026-10-18",
+    "setSummary": [
+      {
+        "setId": "SET03",
+        "questionHeaders": 60,
+        "answerBlocks": 60,
+        "unresolvedNumbers": [
+          4,
+          8,
+          10,
+          15,
+          18,
+          26,
+          38,
+          43,
+          50,
+          57
+        ],
+        "issueCount": 0,
+        "issues": []
+      },
+      {
+        "setId": "SET04",
+        "questionHeaders": 62,
+        "answerBlocks": 62,
+        "unresolvedNumbers": [
+          16,
+          42,
+          44,
+          48,
+          53
+        ],
+        "issueCount": 0,
+        "issues": []
+      },
+      {
+        "setId": "SET05",
+        "questionHeaders": 59,
+        "answerBlocks": 60,
+        "unresolvedNumbers": [
+          2,
+          6,
+          11,
+          12,
+          42
+        ],
+        "issueCount": 3,
+        "issues": [
+          {
+            "n": 6,
+            "type": "question/options not safely parsed"
+          },
+          {
+            "n": 6,
+            "type": "answer letter absent from option keys",
+            "answer": "A",
+            "optionKeys": []
+          },
+          {
+            "n": 12,
+            "type": "question/options not safely parsed"
+          }
+        ]
+      }
+    ]
+  }
 }
