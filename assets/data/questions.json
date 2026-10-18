@@ -6715,8 +6715,8 @@
       "explanation": "",
       "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 BO SUNG 35-62 CAU(1).pdf",
       "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
-      "verificationStatus": "verified",
-      "verificationNotes": "Đối chiếu với đáp án trong file Word; ký hiệu đáp án có trong các phương án PDF.",
+      "verificationStatus": "needs-review",
+      "verificationNotes": "PDF extraction currently has 3 options; must verify all four options against the original page image.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -6921,8 +6921,8 @@
       "explanation": "",
       "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 BO SUNG 35-62 CAU(1).pdf",
       "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
-      "verificationStatus": "verified",
-      "verificationNotes": "Đối chiếu số câu, nội dung và các phương án từ PDF bổ sung câu 35–62; ký hiệu đáp án khớp file đáp án Word.",
+      "verificationStatus": "needs-review",
+      "verificationNotes": "PDF extraction currently has 3 options; must verify all four options against the original page image.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -6987,8 +6987,8 @@
       "explanation": "",
       "sourceQuestionFile": "4.1 BỘ ĐỀ SỐ 04 BO SUNG 35-62 CAU(1).pdf",
       "sourceAnswerFile": "4.2 Đáp án đề số 04.DOCX",
-      "verificationStatus": "verified",
-      "verificationNotes": "Đối chiếu số câu, nội dung và các phương án từ PDF bổ sung câu 35–62; ký hiệu đáp án khớp file đáp án Word.",
+      "verificationStatus": "needs-review",
+      "verificationNotes": "PDF extraction currently has 3 options; must verify all four options against the original page image.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
