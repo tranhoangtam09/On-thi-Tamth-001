@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026-11-04-set03-10-answers-verified",
+  "dataVersion": "2026-11-04-set03-set04-set05-source-verified-v2",
   "sourceScope": "[{\"setId\":\"SET01\",\"questionFile\":\"1.1 BỘ ĐỀ SỐ 01.pdf\",\"answerFile\":\"1.2 Đáp án bộ đề số 01.DOCX\"},{\"setId\":\"SET02\",\"questionFile\":\"2.1 BỘ ĐỀ SỐ 02.pdf\",\"answerFile\":\"2.2 Đáp án đề số 02.docx\"},{\"setId\":\"SET03\",\"questionFile\":\"3.1 Bộ đề số 03.docx\",\"answerFile\":\"3.2 Đáp án đề số 03(1).docx\"},{\"setId\":\"SET04\",\"questionFile\":\"4.2 Bộ đề số 04.docx\",\"answerFile\":\"4.2 Đáp án đề số 04(1).DOCX\"},{\"setId\":\"SET05\",\"questionFile\":\"5.1 Bộ đề số 05.docx\",\"answerFile\":\"5.2. Đáp án đề số 05(1).docx\"}]",
   "questions": [
     {
@@ -6657,20 +6657,20 @@
         },
         {
           "key": "C",
-          "text": "61% <PARSED TEXT FOR PAGE: 4 / 13>"
+          "text": "61%"
         },
         {
           "key": "D",
           "text": "51%"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "A",
+      "answerSourceText": "Đáp án đúng theo tài liệu đáp án mới nhất do người dùng cung cấp: A.",
       "explanation": "",
-      "sourceQuestionFile": "4.2 Bộ đề số 04.docx",
-      "sourceAnswerFile": "4.2 Đáp án đề số 04(1).DOCX",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "sourceQuestionFile": "4.2 Bộ đề số 04 - Chỉnh sửa thêm.docx",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04 - Chỉnh sửa thêm.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu trực tiếp với bộ đề và tài liệu đáp án nguồn vừa cung cấp; đã làm sạch lỗi trích xuất/ghép lẫn nội dung ở các phương án liên quan.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -7562,13 +7562,13 @@
           "text": "Cá nhân có cơ sở có nguy hiểm về cháy, nổ theo quy định pháp luật"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "Đối chiếu theo câu 42 trong 4.2 Đáp án đề số 04.DOCX; đáp án: B.",
+      "correctAnswer": "B",
+      "answerSourceText": "Đáp án đúng theo tài liệu đáp án mới nhất do người dùng cung cấp: B.",
       "explanation": "",
-      "sourceQuestionFile": "4.2 Bộ đề số 04.docx",
-      "sourceAnswerFile": "4.2 Đáp án đề số 04(1).DOCX",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "sourceQuestionFile": "4.2 Bộ đề số 04 - Chỉnh sửa thêm.docx",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04 - Chỉnh sửa thêm.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu trực tiếp với bộ đề và tài liệu đáp án nguồn vừa cung cấp; đã làm sạch lỗi trích xuất/ghép lẫn nội dung ở các phương án liên quan.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -7625,16 +7625,16 @@
         },
         {
           "key": "C",
-          "text": "Bảo hiểm nhân thọ, bảo hiểm phi nhân thọ <PARSED TEXT FOR PAGE: 10 / 13>"
+          "text": "Bảo hiểm nhân thọ, bảo hiểm phi nhân thọ"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "Đối chiếu theo câu 44 trong 4.2 Đáp án đề số 04.DOCX; đáp án: A.",
+      "correctAnswer": "A",
+      "answerSourceText": "Đáp án đúng theo tài liệu đáp án mới nhất do người dùng cung cấp: A.",
       "explanation": "",
-      "sourceQuestionFile": "4.2 Bộ đề số 04.docx",
-      "sourceAnswerFile": "4.2 Đáp án đề số 04(1).DOCX",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "sourceQuestionFile": "4.2 Bộ đề số 04 - Chỉnh sửa thêm.docx",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04 - Chỉnh sửa thêm.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu trực tiếp với bộ đề và tài liệu đáp án nguồn vừa cung cấp; đã làm sạch lỗi trích xuất/ghép lẫn nội dung ở các phương án liên quan.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -7768,13 +7768,13 @@
           "text": "B, C sai"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "Đối chiếu theo câu 48 trong 4.2 Đáp án đề số 04.DOCX; đáp án: B.",
+      "correctAnswer": "B",
+      "answerSourceText": "Đáp án đúng theo tài liệu đáp án mới nhất do người dùng cung cấp: B.",
       "explanation": "",
-      "sourceQuestionFile": "4.2 Bộ đề số 04.docx",
-      "sourceAnswerFile": "4.2 Đáp án đề số 04(1).DOCX",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "sourceQuestionFile": "4.2 Bộ đề số 04 - Chỉnh sửa thêm.docx",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04 - Chỉnh sửa thêm.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu trực tiếp với bộ đề và tài liệu đáp án nguồn vừa cung cấp; đã làm sạch lỗi trích xuất/ghép lẫn nội dung ở các phương án liên quan.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -7935,13 +7935,13 @@
           "text": "Các chi phí cần thiết để phục hồi các hạng mục bị tổn thất"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "Đối chiếu theo câu 53 trong 4.2 Đáp án đề số 04.DOCX; đáp án: A.",
+      "correctAnswer": "A",
+      "answerSourceText": "Đáp án đúng theo tài liệu đáp án mới nhất do người dùng cung cấp: A.",
       "explanation": "",
-      "sourceQuestionFile": "4.2 Bộ đề số 04.docx",
-      "sourceAnswerFile": "4.2 Đáp án đề số 04(1).DOCX",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "sourceQuestionFile": "4.2 Bộ đề số 04 - Chỉnh sửa thêm.docx",
+      "sourceAnswerFile": "4.2 Đáp án đề số 04 - Chỉnh sửa thêm.DOCX",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu trực tiếp với bộ đề và tài liệu đáp án nguồn vừa cung cấp; đã làm sạch lỗi trích xuất/ghép lẫn nội dung ở các phương án liên quan.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -8316,13 +8316,13 @@
           "text": "A, B đúng"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "C",
+      "answerSourceText": "Đáp án đúng theo tài liệu đáp án mới nhất do người dùng cung cấp: C.",
       "explanation": "",
-      "sourceQuestionFile": "5.1 Bộ đề số 05.docx",
-      "sourceAnswerFile": "5.2. Đáp án đề số 05(1).docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "sourceQuestionFile": "5.1 Bộ đề số 05 - Chỉnh sửa thêm.docx",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05 - Chỉnh sửa thêm.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu trực tiếp với bộ đề và tài liệu đáp án nguồn vừa cung cấp; đã làm sạch lỗi trích xuất/ghép lẫn nội dung ở các phương án liên quan.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -8433,15 +8433,24 @@
       "setId": "SET05",
       "setName": "Bộ đề số 05",
       "questionNumber": 6,
-      "question": "Theo Luật Kinh doanh bảo hiểm, người có quyền chiếm hữu đối với tài sản thì có “Quyền lợi có thể\nđược bảo hiểm” đối với tài sản đó:\n\n[ ] A: Đúng.\n\n[ ] B. Sai.",
-      "options": [],
-      "correctAnswer": null,
-      "answerSourceText": "Đáp án nguồn 5.2. Đáp án đề số 05(1).docx: A.",
+      "question": "Theo Luật Kinh doanh bảo hiểm, người có quyền chiếm hữu đối với tài sản thì có “Quyền lợi có thể được bảo hiểm” đối với tài sản đó:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Đúng."
+        },
+        {
+          "key": "B",
+          "text": "Sai."
+        }
+      ],
+      "correctAnswer": "A",
+      "answerSourceText": "Đáp án đúng theo tài liệu đáp án mới nhất do người dùng cung cấp: A.",
       "explanation": "",
-      "sourceQuestionFile": "5.1 Bộ đề số 05.docx",
-      "sourceAnswerFile": "5.2. Đáp án đề số 05(1).docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất đủ câu hỏi/phương án từ file đề; giữ nội dung cũ nếu có và cần rà soát. Đáp án theo nguồn không khớp phương án trích xuất; cần rà soát bản gốc.",
+      "sourceQuestionFile": "5.1 Bộ đề số 05 - Chỉnh sửa thêm.docx",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05 - Chỉnh sửa thêm.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu trực tiếp với bộ đề và tài liệu đáp án nguồn vừa cung cấp; đã làm sạch lỗi trích xuất/ghép lẫn nội dung ở các phương án liên quan.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -8595,36 +8604,16 @@
         },
         {
           "key": "B",
-          "text": "Không. Câu 12 Chọn phương án đúng nhất về loại trừ bảo hiểm;"
-        },
-        {
-          "key": "A",
-          "text": "Loại trừ bảo hiểm là loại trừ các rủi ro, tổn thất mà doanh nghiệp bảo hiểm không chịu trách nhiệm bồi thường, trả tiền bảo hiểm nếu xảy ra sự kiện bảo hiểm."
-        },
-        {
-          "key": "B",
-          "text": "Loại trừ bảo hiểm là loại trừ các rủi ro, tổn thất và chi phí phát sinh mà doanh nghiệp bảo hiểm không chịu trách nhiệm bồi thường, trả tiền bảo hiểm nếu xảy ra sự kiện bảo hiểm."
-        },
-        {
-          "key": "C",
-          "text": "Loại trừ bảo hiểm được căn cứ theo các điều kiện, điều khoản loại trừ bảo hiểm quy định trong Quy tắc bảo hiểm và các điều khoản sửa đổi, bổ sung (nếu có) kèm theo hợp đồng bảo hiểm."
-        },
-        {
-          "key": "D",
-          "text": "A, C đúng."
-        },
-        {
-          "key": "E",
-          "text": "B, C đúng."
+          "text": "Không."
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "B",
+      "answerSourceText": "Đáp án đúng theo tài liệu đáp án mới nhất do người dùng cung cấp: B.",
       "explanation": "",
-      "sourceQuestionFile": "5.1 Bộ đề số 05.docx",
-      "sourceAnswerFile": "5.2. Đáp án đề số 05(1).docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "sourceQuestionFile": "5.1 Bộ đề số 05 - Chỉnh sửa thêm.docx",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05 - Chỉnh sửa thêm.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu trực tiếp với bộ đề và tài liệu đáp án nguồn vừa cung cấp; đã làm sạch lỗi trích xuất/ghép lẫn nội dung ở các phương án liên quan.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -8654,16 +8643,16 @@
         },
         {
           "key": "E",
-          "text": "B, C đúng. Đúng 1/1 Điểm 16"
+          "text": "B, C đúng."
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "Đáp án nguồn 5.2. Đáp án đề số 05(1).docx: E.",
+      "correctAnswer": "E",
+      "answerSourceText": "Đáp án đúng theo tài liệu đáp án mới nhất do người dùng cung cấp: E.",
       "explanation": "",
-      "sourceQuestionFile": "5.1 Bộ đề số 05.docx",
-      "sourceAnswerFile": "5.2. Đáp án đề số 05(1).docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không tìm thấy câu trong file đề nguồn. Không trích xuất đủ câu hỏi/phương án từ file đề; giữ nội dung cũ nếu có và cần rà soát.",
+      "sourceQuestionFile": "5.1 Bộ đề số 05 - Chỉnh sửa thêm.docx",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05 - Chỉnh sửa thêm.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu trực tiếp với bộ đề và tài liệu đáp án nguồn vừa cung cấp; đã làm sạch lỗi trích xuất/ghép lẫn nội dung ở các phương án liên quan.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -9655,13 +9644,13 @@
           "text": "1 tỷ"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "C",
+      "answerSourceText": "Đáp án đúng theo tài liệu đáp án mới nhất do người dùng cung cấp: C.",
       "explanation": "",
-      "sourceQuestionFile": "5.1 Bộ đề số 05.docx",
-      "sourceAnswerFile": "5.2. Đáp án đề số 05(1).docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "sourceQuestionFile": "5.1 Bộ đề số 05 - Chỉnh sửa thêm.docx",
+      "sourceAnswerFile": "5.2. Đáp án đề số 05 - Chỉnh sửa thêm.docx",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu trực tiếp với bộ đề và tài liệu đáp án nguồn vừa cung cấp; đã làm sạch lỗi trích xuất/ghép lẫn nội dung ở các phương án liên quan.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
