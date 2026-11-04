@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026-10-18-set03-set04-set05-source-sync-v1",
+  "dataVersion": "2026-11-04-set03-10-answers-verified",
   "sourceScope": "[{\"setId\":\"SET01\",\"questionFile\":\"1.1 BỘ ĐỀ SỐ 01.pdf\",\"answerFile\":\"1.2 Đáp án bộ đề số 01.DOCX\"},{\"setId\":\"SET02\",\"questionFile\":\"2.1 BỘ ĐỀ SỐ 02.pdf\",\"answerFile\":\"2.2 Đáp án đề số 02.docx\"},{\"setId\":\"SET03\",\"questionFile\":\"3.1 Bộ đề số 03.docx\",\"answerFile\":\"3.2 Đáp án đề số 03(1).docx\"},{\"setId\":\"SET04\",\"questionFile\":\"4.2 Bộ đề số 04.docx\",\"answerFile\":\"4.2 Đáp án đề số 04(1).DOCX\"},{\"setId\":\"SET05\",\"questionFile\":\"5.1 Bộ đề số 05.docx\",\"answerFile\":\"5.2. Đáp án đề số 05(1).docx\"}]",
   "questions": [
     {
@@ -4192,13 +4192,13 @@
           "text": "Sai."
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu đáp án trong tài liệu nguồn SET03: A.",
       "explanation": "",
       "sourceQuestionFile": "3.1 Bộ đề số 03.docx",
       "sourceAnswerFile": "3.2 Đáp án đề số 03(1).docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu theo tài liệu đề và đáp án SET03 do người dùng cung cấp; giữ nguyên câu hỏi và phương án hiện có.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -4328,13 +4328,13 @@
           "text": "25%"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "B",
+      "answerSourceText": "Đối chiếu đáp án trong tài liệu nguồn SET03: B.",
       "explanation": "",
       "sourceQuestionFile": "3.1 Bộ đề số 03.docx",
       "sourceAnswerFile": "3.2 Đáp án đề số 03(1).docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu theo tài liệu đề và đáp án SET03 do người dùng cung cấp; giữ nguyên câu hỏi và phương án hiện có.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -4398,13 +4398,13 @@
           "text": "Rủi ro riêng"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "B",
+      "answerSourceText": "Đối chiếu đáp án trong tài liệu nguồn SET03: B.",
       "explanation": "",
       "sourceQuestionFile": "3.1 Bộ đề số 03.docx",
       "sourceAnswerFile": "3.2 Đáp án đề số 03(1).docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu theo tài liệu đề và đáp án SET03 do người dùng cung cấp; giữ nguyên câu hỏi và phương án hiện có.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -4557,13 +4557,13 @@
           "text": "Sai."
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu đáp án trong tài liệu nguồn SET03: A.",
       "explanation": "",
       "sourceQuestionFile": "3.1 Bộ đề số 03.docx",
       "sourceAnswerFile": "3.2 Đáp án đề số 03(1).docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu theo tài liệu đề và đáp án SET03 do người dùng cung cấp; giữ nguyên câu hỏi và phương án hiện có.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -4662,13 +4662,13 @@
           "text": "70% chi phí điều trị"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "B",
+      "answerSourceText": "Đối chiếu đáp án trong tài liệu nguồn SET03: B.",
       "explanation": "",
       "sourceQuestionFile": "3.1 Bộ đề số 03.docx",
       "sourceAnswerFile": "3.2 Đáp án đề số 03(1).docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu theo tài liệu đề và đáp án SET03 do người dùng cung cấp; giữ nguyên câu hỏi và phương án hiện có.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -4942,13 +4942,13 @@
           "text": "4% <PARSED TEXT FOR PAGE: 7 / 14>"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "A",
+      "answerSourceText": "Đối chiếu đáp án trong tài liệu nguồn SET03: A.",
       "explanation": "",
       "sourceQuestionFile": "3.1 Bộ đề số 03.docx",
       "sourceAnswerFile": "3.2 Đáp án đề số 03(1).docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu theo tài liệu đề và đáp án SET03 do người dùng cung cấp; giữ nguyên câu hỏi và phương án hiện có.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -5354,13 +5354,13 @@
           "text": "Ông/bà của bên mua bảo hiểm."
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu đáp án trong tài liệu nguồn SET03: D.",
       "explanation": "",
       "sourceQuestionFile": "3.1 Bộ đề số 03.docx",
       "sourceAnswerFile": "3.2 Đáp án đề số 03(1).docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu theo tài liệu đề và đáp án SET03 do người dùng cung cấp; giữ nguyên câu hỏi và phương án hiện có.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -5533,13 +5533,13 @@
           "text": "A và B đúng"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "C",
+      "answerSourceText": "Đối chiếu đáp án trong tài liệu nguồn SET03: C.",
       "explanation": "",
       "sourceQuestionFile": "3.1 Bộ đề số 03.docx",
       "sourceAnswerFile": "3.2 Đáp án đề số 03(1).docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu theo tài liệu đề và đáp án SET03 do người dùng cung cấp; giữ nguyên câu hỏi và phương án hiện có.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -5778,13 +5778,13 @@
           "text": "Là công dân Việt Nam, thường trú tại Việt Nam; có năng lực hành vi dân sự đầy đủ; Có chứng chỉ đại lý bảo hiểm do cơ sở được Bộ Tài chính chấp thuận cấp."
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "D",
+      "answerSourceText": "Đối chiếu đáp án trong tài liệu nguồn SET03: D.",
       "explanation": "",
       "sourceQuestionFile": "3.1 Bộ đề số 03.docx",
       "sourceAnswerFile": "3.2 Đáp án đề số 03(1).docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu theo tài liệu đề và đáp án SET03 do người dùng cung cấp; giữ nguyên câu hỏi và phương án hiện có.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
@@ -6019,13 +6019,13 @@
           "text": "Đại lý bảo hiểm phải phực hiện cam kết trong hợp đồng đại lý bảo hiểm đã ký với doanh nghiệp bảo hiểm"
         }
       ],
-      "correctAnswer": null,
-      "answerSourceText": "",
+      "correctAnswer": "B",
+      "answerSourceText": "Đối chiếu đáp án trong tài liệu nguồn SET03: B.",
       "explanation": "",
       "sourceQuestionFile": "3.1 Bộ đề số 03.docx",
       "sourceAnswerFile": "3.2 Đáp án đề số 03(1).docx",
-      "verificationStatus": "needs-review",
-      "verificationNotes": "Không trích xuất được duy nhất một ký hiệu đáp án từ file đáp án nguồn; cần rà soát.",
+      "verificationStatus": "verified",
+      "verificationNotes": "Đã đối chiếu theo tài liệu đề và đáp án SET03 do người dùng cung cấp; giữ nguyên câu hỏi và phương án hiện có.",
       "topicId": null,
       "topicName": null,
       "sourcePage": null
